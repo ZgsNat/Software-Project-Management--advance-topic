@@ -1,0 +1,2927 @@
+Hello
+chào lớp 36.
+>> Em chào thầy ạ.
+>> Ừ chào các em.
+Các em nghe được thầy nói không?
+>> Có. Dạ có em mượ.
+Ok.
+Xem có sách lớp chưa.
+Ok.
+Chắc là chờ 1 2 phút nữa cho lớp vào đủ
+nhỉ. Lớp chúng ta là có bao nhiêu rồi
+đây?
+Ừ
+26 25 cho khá để xem.
+Ok.
+Ok.
+Ok. Thầy có danh sách lớp 36 là 33 bạn.
+Ok. chúng ta gần đủ rồi.
+Gần đủ à các bạn
+ác em nghe được không? Thầy vừa đổi cấu
+hình
+có nghe tốt đúng không? Ok.
+>> Ok. Dạ.
+Rồi.
+Ok.
+Ok. Bài thứ năm nhá. Chúng ta bắt đầu
+rồi. Ok.
+À
+thì đầu về đầu tiên thứ nhất là chào lớp
+36A đúng không? Thì thầy làm giảng viên
+của chúng ta trong cái môn trong môn SWM
+501 là môn đề project management.
+Tiên là thầy giới thiệu cái buổi này là
+buổi buổi đầu tiên đúng không? Thì à
+chúng ta sẽ có mỗi một buổi chúng ta có
+hai tiếng thì cái môn này gọi gọi là môn
+mentor. Cái cái phần thực raã cái phần
+giảng dạy là mang tính chất là mentor vở
+sinh viên.
+Còn chủ yếu cái môn này là cung cấp cho
+các em tài liệu học tập và và chúng ta
+sẽ các em sẽ triển khai về học tập đó
+đúng không? và ứng dụng về đấu trong
+project và buổi học chúng ta có ba buổi
+học mentor như thế này thì thầy sẽ làm
+việc với các em về giải đáp về các câu
+hỏi cũng như là những cái vấn đề liên
+quan đến project đúng không chúng ta có
+thể tập trung vào những vấn đề đó
+à về môn này thì có cái phần học liệu
+trên Classroom
+thầy tạm ở đây để đưa tất cả các cái
+thông tin tài liệu môn học cũng như là
+phần bài tập đánh giá à của các em nộp
+lên đây. Đấy thì trước hết là thầy hỏi
+là lớp đã vào được cái trang classroom
+này chưa? Có bạn nào chưa chưa vào được
+không?
+Em chưa em chưa.
+>> Ok. Thế thì thầy sẽ
+>> thầy sẽ gửi lại cái đây nhá. Trên cửa sổ
+chat à cửa sổ chat của Google Meet là
+cái link vào Classroom.
+Em em bấm vào join luôn. Bạn nào chưa
+vào được thì bấm vào đấy tự động join
+bằng các em join bằng email của FSB nhá.
+Đấy
+để tiếp có dùng vào được. Thứ hai là vào
+đấy thì có tên các em trong số điểm phía
+sau chấm điểm xác định dễ nhá. Ok giờ có
+một bạn thôi đúng không?
+Thế thì trong buổi này thì thầy sẽ giới
+thiệu các em về môn học này. Môn này nó
+về cái gì đúng không? và ờ cái kế hoạch
+học tập à và cái phần đánh giá của môn
+học đó và các cái hợp liệu liên quan
+thì thầy sẽ đầu tiên thầy sẽ mô tả cái
+phần cái file syllabus th tóm lược nhá
+thì cái link đến file syllabus thầy cũng
+đưa ở trên classroom ở đây các em bấm
+vào đây là các em thấy syllabus đúng
+Ok. Thế thì à môn này á thì cái tiêu đề
+là software project management. Ok.
+Mục đích của cái môn này đặt ra là để
+các em
+hệ thông hóa cũng như là
+có thể là hệ thống hóa những cái kiến
+thức mà trước kia em ở trong chương
+trình về về project management. Ngoài ra
+thì cũng sẽ có một phần gọi là làm sâu
+hơn cũng như là nâng cao hơn đúng không?
+Để các em
+ờ
+học về quản lý dự án này. Ờ ừ và
+tiêu đặt ra nữa. Tất nhiên là để quản lý
+dự án thì trong vòng một trong phạm vi
+một môn học thì không học hết được.
+Cái đấy những bạn nào làm thực tiễn cũng
+như là học về project management trên
+sâu ấy thì cũng sẽ biết đúng không? Thế
+thì mục tiêu của một môn học này thì sẽ
+là để các em có thể là ứng dụng được.
+Chúng ta học ở project management những
+cái gọi là quan trọng nhất, cái nền tảng
+à sâu hơn một chút so với những cái gì
+em học trước trước trước trước kia. Và
+quan trọng hơn nữa là ứng dụng nó vào
+một trong cái dự án dự án thậ
+và cái dự án này sẽ lựa chọn để nó khớp
+với cái mục tiêu của chương trình MSA
+tức là có AI.
+Thì chút nữa thầy cũng sẽ giới thiệu về
+cái dự án đấy để các em làm à để các em
+nắm được.
+À thế thì à ở trong cái môn học này thì
+à phần lý thuyết ấy nó có hai phần, phần
+lý thuyết và phần thực hành đúng không?
+Phần phần lý thuyết thì thay vì là có
+một bộ slide trình bày như cầm môn học
+thông thường thì sẽ cung cấp cho các em
+một cái khóa học cosera.
+Và cái phần nội dung mô tả ở đây thì
+thực ra là bám theo cái for C đấy thì
+các em phải hoàn thành một cái một cái
+gọi là specialization, một cái chuyên
+môn chuyên ngành trên Cera về gọi là AG
+và project management.
+Thì trong cái specialization hay là cái
+spec này ấy thì nó sẽ có bốn khóa học
+thì phải hoàn thành bốn khóa đó. Thì cái
+link đến cái khóa có nằm ở đây. Thì với
+cái tài khoản của của các em ở
+FSB thì các em có thể vào để xem được
+học được. Vâng. Đấy. Đây thì sẽ là khóa
+đây đúng không? Thì các em a các em thấy
+có bốn khóa đấy. Bốn khóa
+thì bốn khóa này nội dung của bốn khóa
+này thì được mô tả tóm lực ở trong cái
+syllabus ấy. Và các em cũng có thể vào
+đây đọc đúng không? Thì
+khóa đầu tiên là về AJ mix Design
+Thinking. Đấy thì thực ra về cơ bản khóa
+này sẽ cho các em về cái cơ bản nhất,
+nhên tạng nhất về cái nhìn về AIS trong
+cái trong cái cái cái góc nhìn từ từ duy
+thiết kế design thinking.
+cái nghĩa là kết hợp tức là là phân tích
+cái aiz này trong trong cái bối cảnh của
+các cái phương pháp mà cũng rất là phổ
+biến ở trong ngà công nghiệp. Design
+thinh là cái phương pháp mà dùng ở nhiều
+ngành chứ không phải chỉ riêng ở trong
+trong ngành software.
+À các em hiểu được cái khái niệm cơ bản
+về AG đúng không? Và ở đây tập trung ở
+trong cái khóa thứ nhất này là về cái
+cách làm thế nào để các em có thể design
+học cái cách để thiết lập yêu cầu và
+design đúng không? Một cái giải pháp đáp
+ứng yêu cầu đấy.
+Ờ mục tiêu ở đây là đặt cái trọng tâm ờ
+người dùng cũng như cái giá trị chúng ta
+đem lại người dùng làm trọng tâm. đó cái
+cái
+cơ sở chính là chúng ta phải xác định
+được cái yêu cầu người dùng và làm sao
+để đưa ra cái ra của hợp yêu cầu đấy.
+À
+thì cái cái phần này nó
+mang tính lý thuyết về
+tìm hiểu và yêu cầu là tìm hiểu người
+dùng và cái giá trị mà cái project chúng
+ta.
+Nhưng bạn nào quen về kỹ thuật thì có
+thể sẽ phải làm quen một chút về cái
+tính tính lý thuyết và
+phải bước ra khỏi cái ph cái cái
+phạm vi kỹ thuật của mình để tìm hiểu về
+người dùng đúng không và xem xem là cái
+cách tiếp cận với người dùng như thế nào
+để chúng ta có thể xác định được yêu cầu
+và giá trị thực sự mà chúng ta có thể
+mang lại cho họ.
+Những cái ba cái khóa tiếp theo ấy thì
+sẽ đi vào chi tiết hơn về những cái khế
+cạnh để làm a như thế nào. Ờ thì ở khóa
+thứ hai này thì cái tên của nó hơi hơi
+lạ lạ một chút. Thì tác giả giới thiệu
+aja vào
+trong bối cảnh của cái phương pháp gọi
+là hypothesis driven development. Đấy
+thì à cái khóa này là gọi là ờ phát
+triển một cái hệ thống dựa trên giả
+thiết à hướng giả thiết. À đấy thì tại
+sao ra lại không giả thiết thì trong cái
+khóa học này sẽ giải đáp vấn đề đó. Và
+nếu những ai làm aiz các bạn biết từ
+trước ấy thì có thể tìm thấy quen là
+chúng ta sẽ làm đi làm lại nhiều vòng
+đúng không? và thử nghiệm cái tính tính
+tính thử nghiệm của a ở đây rất là cao.
+Thế cho nên là cái việc aiz ở đây nó sẽ
+sẽ phù hợp với với cái phương pháp này
+gọi là hypothesis. Tức là chúng ta đặt
+giả định chúng ta đi kiểm chứng xem giả
+định này đúng hay không đúng không? Thế
+thì cái ở phương pháp này là do tác giả
+do chứng tác giả của cái khóa học của
+cái specialization này tức là ông Hen
+ông ấy ông ấy nghĩ ra
+thì sẽ
+như vậy là nhìn từ khía cạnh của cái
+phương pháp như vậy đúng không và cái
+nền tảng chính cái ý tưởng chính tư
+tưởng chính của ở đây chính là cái việc
+là chúng ta sẽ đặt giả định đi kiểm
+chứng cái giả định đấy lặp đi lặp lại
+cho đến khi nào mà chúng ta ra được cái
+a
+cái kết quả đúng đắn ở đây là ra được
+cái cái à những cái đầu ra mà phù hợp
+với yêu cầu là ra ban đầu.
+Khóa tiếp theo này thì nói về cái ứng
+dụng các cái kỹ thuật về phân tích dữ
+liệu để để và đâu đó đúng không có một
+cái cái khí cạnh AI nhất định ở trong
+việc sử dụng và sử dụng tiến hành cái
+phương pháp này. Thì ở đây chúng ta cũng
+lưu ý là ở đây không có nghĩa là đi rất
+sâu về ứng dụng AI hay Analytic vào
+trong product. tác giả chỉ đưa vào một
+số khí cạnh nhất định để để có cái sự
+liên hệ đúng không giữa chai và cái việc
+làm thế nào chúng ta phân tích đúng
+không và cũng như là ứng dụng aiz trong
+các cái dự án làm AI hay là ứng dụng AI
+để có thể giúp cho một số các cái thao
+tác nhất định trong làm
+à nếu mà những ai mà thực sự là tìm hiểu
+và muốn mong muốn biết rõ về các cái kỹ
+thuật này các cái
+công cụ này để làm a và cái phương pháp
+làm a cụ thể nó như thế nào thì thực ra
+là cái khóa thứ tư này bắt đầu mới đưa
+vào cụ thể nói cụ thể về các quản lý của
+cái
+thì
+nếu mà các em học về đâu đó đã đã được
+tìm hiểu về đặc đọc chỉ
+ấy thì người ta nói nhiều cái gì th tư
+này thì sâu nói khoản thứ tư này nhiều
+hơn thì với này
+có ba là dẫn
+và tập trung nhiều và cái khí cạnh là
+người dùng giá trị này pha đầu của phát
+triển thì có đâu đó những cái kỹ thuật
+và làm ra nhưng mà chỉ tập trung những
+cái cơ bản thôi
+đấy thì thầy tổng quan qua về cái
+specialization
+này. Ờ như vậy ở cái phần này thì chúng
+ta còn rất nhiều dịp sẽ còn quay lại và
+nói kỹ hơn sâu hơn về những cái khóa học
+này nữa. À thì nhưng mà về cơ bản là để
+các em nắm được đúng không? Và các em sẽ
+để viết là cái phần lý thuyết của cái m
+lọc này là nó sẽ xoay quanh à những cái
+gì mà cung cấp của bốn khoa học này. À
+thầy cũng phải nói thêm là những cái
+phần mà cung cấp trong bốn khoa học này
+thì nó mang tính
+ý thuyết nền tảng thôi. À những để mà
+các em thực hành và ứng dụng nó vào một
+cái dự án thì chúng em cũng các em sẽ
+cần thêm một số các cái bổ trợ nữa. Bởi
+vì khi thực hành thì đòi hỏi rất nhiều
+những kỹ năng sử dụng tool này và và
+cũng phải có những cái sự liên hệ về và
+ở đây chúng ta nói về phát triển phần
+mềm thì phải có những kỹ thuật lên phát
+triển phần mềm nữa. Đấy thì bốn cái khóa
+học này nó hơi mang tính lý thuyết. Thế
+cho nên là để là áp áp dụng được như vậy
+ấy thì các em sẽ cần phải bổ sung thêm
+đúng không? Thì cái bổ sung thêm đấy
+thầy cung cấp một số các cái tài liệu
+thêm ở cái phần tài nguyên phần resource
+đây chính là cái tài nguyên liên quan
+đến môn học thì có khha khá một số các
+cái các cái phần thì một chút nữa thầy
+cũng sẽ giới thiệu thêm cho các em về
+phần này đúng không để các em làm được à
+cái a cái cái
+phương pháp cái đầu tiên có thể thầy nói
+nói nói trước cũng được đấy là cái
+phương pháp gọi là HDD này hypothesis
+driven development này á thầy nói của
+cái tác giả Alex này đấy. Thế thì à thầy
+cũng để cho các em tiện tham khảo thì
+cũng thầy cũng đưa luôn cái link của nó
+vào đây. Nó là link đến một cái trang
+web này đúng không? Đấy thì thực ra thầy
+cũng khuyên là trước khi các em vào học
+khóa cosera đấy á bốn cái khóa cosera
+đấy thì các em đọc trước cái này. Thực
+ra là đây là một cái bản tóm tắt cô đọng
+về cái phương pháp HDD đấy và cái cái
+mối liên hệ các em hiểu được cái khóa
+cái cái HDD này nó là cái gì đúng không?
+và cái mối liên hệ của nó tới như thế
+nào đấy thì tóm được ở đây những cái ý
+thưởng chính và tất cả những cái tài
+liệu này, những cái hình ảnh, hình vẽ
+này và những cái đoạn mô tả toàn tắt này
+nó cũng đều xuất hiện đâu đó ở bốn cái
+khóa học của Cara kia. Tuy nhiên khi các
+em vào Cara thì nó sẽ nó sẽ dàn trả qua
+cả bốn khóa học và nhiều khi nó nó hơi
+đi nó hơi rộng thì có thể chúng ta khó
+nhìn được bức tranh tổng thể. Đấy thì
+theo thầy Huyên là các em đọc cái này
+trước nhá. Tiếp cận là đọc cái này trước
+để hiểu này. Đấy và trong này có cả các
+ví dụ nữa đúng không? Để khi chúng em
+vào khóa học thì các em sẽ sẽ nắm được
+sẽ dễ hơn. Đấy thì đấy là cái link đầu
+tiên ở trong cái phần học liệu để sẵn
+luôn cái HD ra.
+Thế còn tiếp theo thì thầy chút nữa thầy
+cũng sẽ đi về những cái phần này thêm
+à để giới thiệu cho các em dùng thêm
+nhá.
+À đây là phần mô tả về các cái bốn cái
+khóa trong Cera này. Thì cái phần chi
+tiết hơn thì các em cũng có thể xem ở
+đây. Cái tư tưởng thì thầy cũng đã đã
+giải thích qua rồi. Chúng ta cũng sẽ còn
+quay lặp lại và quay quay lại phần này
+để xem thêm là sau.
+À về phần đánh giá điểm đúng không? Thì
+ở đây chúng ta sẽ có là à các em sẽ phải
+à hoàn thành cái cái cosera spec với bốn
+khóa đấy cho có bốn khóa à thì cái
+phần đấy là chiến 40%
+à số điểm. Sau đó nữa thì các em phải
+làm cái bài gọi là cái bài của final
+assessment gọi là đánh giá cuối cuối
+khóa đi. Thì cái đánh giá này chính là
+một cái project đúng không? Cái dự án và
+như thầy nói là ứng dụng vào trong thực
+tiễn.
+Thì cái phần này chiếm 60% số điểm thì
+như vậy điểm của các em sẽ là 40% của
+cosa nhân 60% trọng số của của project
+đúng không? Và để hoàn thành ti chí hoàn
+thành là gì? Thứ nhất là các em điểm
+trung bình à cái điểm cos squate này
+đúng không? Điểm trung bình tổng cộng
+này là phải trên 5 đúng không? Thì rõ
+rồi cái này phải quy xuống 10 cúc trên
+các cái đầu điểm ở trên cosa thầy chấm
+trên điểm 100 để cho nó dễ bởi vì có rất
+nhiều tiêu trí. Thế còn khi mà về ra về
+cái bảng cuối cùng thì sẽ quy về băng
+điểm 10 thì ít nhất là phải 5 trở lên
+đúng không? Và ngoài ra thì có một cái
+rất là quan trọng ở đây nữa là cái bài
+project của các em ấy là các em phải ý
+nhất là bốn nên là chúng ta cũng phải để
+ý đừng đừng để dưới bốn đúng không?
+bận gì thì bận nhưng mà nhận phải làm ở
+mức độ tiếp nhận được.
+Thì cái này thầy cũng phải nhắc bởi vì
+trong nhìn chung cái project nó không
+khó và hầu hết tất cả các nhóm thầy dạy
+một vài năm rồi thì hết các nhóm không
+có ai không làm gì cả. Thì có đâu đó là
+là có một số trường hợp đặc biệt cá biệt
+là có thể các bạn bận công tác gì đó đấy
+và quên làm hoặc là làm chất lượng rất
+là kém.
+thì thì điểm sẽ bị thấp đấy. Vậy thì các
+em đi
+đúng không? Chúng ta sẽ làm theo nhóm
+cho nên là thực ra là cũng rất ít có khả
+năng mà cả tất cả các thành viên của
+nhóm đều bận công tác hoặc là gì cả thì
+thầ thấy rất là hiếm. Chúng ta nên bố
+trí thời gian để chúng ta làm cho nó hợp
+lý đúng không? Backup cho nhau như thế
+nào đấy. Ok. Trong nữa đế phần project
+thì chúng ta sẽ nói cụ thể hơn.
+Thì đây là về tổng quan về cái môn học
+này là như vậy đó.
+Như vậy là có phần cosera nhá và phần
+project. Ok chưa? Cóera là các em hoàn
+thành. Thì bây giờ thầy cũng hỏi luôn là
+các nhóm cái link các em vào cái
+syllabus đi các em bấm vào link các em
+đã vào được khóa này khóa học này chưa?
+Thầy xác nhận tất cả lớp đều vào được
+đúng không? Có bạn nào không vào được
+không thì nói cho biết nà.
+Ok, tốt. Như vậy là cả lớp đều vào được
+rồi. Các em đều biết cách sử dụng Cera
+đúng không? Ví dụ vào đây các em bấm vào
+khóa học này
+thì à thì
+nó sẽ hiện ra bốn cái khóa cho các em.
+Ở đây thì ở đây thì thầy đang vào cái
+khóa đầu tiên. khóa này là
+ờ tại vì nó sẽ vào cái khóa mà thầy view
+trước đó thì nó sẽ vào từng các em sẽ
+vào từng khóa một để làm đúng không? Đấy
+thì về cơ bản là đây là khóa đầu tiên
+đúng không? Thì trong này sẽ có các
+video này rồi có các bài quiz này, có
+phần đánh giá kiểm tra này đúng không?
+Đấy thì các em phải hoàn thành hết những
+cái
+phần đánh giá này. Kể cả bài quiz.
+Lưu ý nữa là một số khóa học thì phải có
+một cái bài assignment cũng chỉ có quiz.
+Bài assignment đấy là gọi là peer
+review. Tức là ngoài việc là hệ thống sẽ
+chấm cái bài đấy. Bởi vì bài đấy là bài
+viết chứ không phải là bài điền
+các câu hỏi trắc nghiệm. Cho nên là hệ
+thống sẽ họ sẽ có một hệ thống tự động
+chấm cái đấy. Ngoài ra thì sẽ bốn người
+khác phải chấm bài của em. Em phải nhận
+được điểm của bốn người à con xin lỗi em
+phải nhận được điểm đánh giá của của
+người khác nữa.
+Và ngoài ra thì em cũng phải đánh giá
+bốn bài khác đúng không? Thì em phải
+đóng góc và việc anh đánh giá bốn bài
+khác nữa. Thì các em lưu ý là mình cũng
+đánh giá bài mình nộp lên này. Ngoài ra
+mình phải đánh giá bốn bài khác thì lúc
+đấy hệ thống mới chấp nhận cho điểm của
+chúng ta nhá. Đấy thì các em có cái phần
+preview nữa thì đương nhiên là mình đánh
+giá bài người khác thì người khác cũng
+đánh giá bài của mình. Đấy thì thì chúng
+ta đóng góp cộng đồng như vậy.
+Ok. À
+à trông nữa thì để để giới thiệu qua về
+cái khóa học này các những cái phần
+chính của nó thì thầy cũng sẽ đưa tập
+trung vào cái ví dụ. Cái ví dụ đấy mà
+được sử dụng xuyên suốt. Có một số ví dụ
+được dùng cả trong và bốn khóa này nhưng
+một ví dụ dùng nhiều nhất đấy là cái ví
+dụ về một công ty là HV này đúng không?
+là là về à
+trên đi a sửa chữa máy đúng không? Và à
+nói về cái việc là quản lý dự án ở đây
+là liên quan đến quản lý cái công việc
+của một người à thợ sửa chữa đấy để khi
+mà họ đến a địa điểm của khách hàng đọ
+sửa chữa thì bây giờ phải làm thế nào?
+Cung cấp một cái hệ thống để cho cái
+người thợ đấy người ta dễ dàng sửa chữa
+đúng không? Thế thì xin suốt cả bốn khóa
+học này là những cái câu chuyện xoay
+quanh là cái người thợ sửa đấy, cái yêu
+cầu của họ là gì, làm sao thiết kế được
+một cái ví dụ như là user interface sẽ
+phù hợp với cái nhu cầu của họ. À rồi
+làm sao tổ chức các cái vòng à ờ một cái
+project để triển khai cái thiết kế đó
+đúng không? và làm sao để áp dụng cái tư
+duy của thông quá HD đấy để đi kiểm tra
+đánh giá và biết chính xác xem là cái
+mình xác định nó có đúng với cái của
+người dùng người ta mong muốn không cái
+HDD đấy hypotition revment vân vân
+ok
+thế thì syllabus này ok với này
+rồi Rồi
+ok đế và syllabus như vậy là tạm ổn nhá.
+Thì bây giờ sang quay sang cái classroom
+này thì chúng ta sẽ đi các cái đề mục
+classroom thì ở phía trên này thì là
+những cái phần chung thông báo chung về
+lịch học này. Cái này là phần điểm danh
+thì thầy sẽ chung đó thầy sẽ điểm danh
+lớp vào đây. Đây là cái Google Meet Link
+này đúng không? Thì còn đây xin lỗi b
+thầy đã nói rồi. Nào thế đánh giá này
+thì ngoài ở thầy các em lưu ý là cái
+cosera thì thầy không các em không theo
+yêu cầu của của trường thì em không sẽ
+không nộp cái chứng chỉ cosera hoàn
+thành vào đây nhá. Sau khi xong thì sẽ
+có một cái chứng chỉ
+nó sẽ trông giống như thế này các em sẽ
+nhận được. Không biết có bạn nào chắc là
+bạn nào làm thì quen rồi đúng không? Thế
+còn bạn nào chưa thì các sẽ lưu ý là sẽ
+có cái chữ gì đó.
+thì các em phải nộp vào và các em không
+phải nộp vào đây mà các em phải nộp
+có lẽ là trường à không trường họ cũng
+không yêu cầu các em nộp cái đó
+đây ví dụ thầy thầy cũng đây xong thì nó
+sẽ giống như này đúng không thì đây ví
+dụ chính tr của thầy là nó sẽ nói là
+hoàn thành cái này rồi và đây là bốn cái
+khoa học ở bên này nhá thì các em phải
+hoàn thành bốn cái và nộp lại thì à nhìn
+chung ở trên trường thì họ sẽ tự tìm
+trong hệ thống để biết được các em đã
+hoàn thành hay chưa đúng không? Thì cho
+nên ở trên C class Classroom thì thầy sẽ
+không yêu cầu các em nộp cái đấy vào mà
+chỉ tập trung vào cái dự án thôi. Cái dự
+án đấy gọi là group project này đúng
+không?
+Thì thầy cũng sẽ mô tả cho các em
+ờ về cái project này như thế nào. Thế
+thì cái project này thì nó dựa trên một
+cái case study à gọi là Smart Driving
+School SDS. Thì có cái từ smart ở đây
+bởi vì các em thách đoán ra là để cũng
+muốn ứng dụng một ít cái phần AI vào bởi
+vì các em ở đây là chúng ta là MSC for
+AI đúng không? thì cố gắng đưa đến cái
+yêu cầu về làm ai thì để đặt ra một cái
+tình một cái giả định về một công ty để
+nhu cầu có một nhu cầu là làm cái hệ
+thống ờ dạy lái xe giống như trường lạy
+lái xe nhưng mà là trường lợi xe thông
+minh tức là sẽ dùng công nghệ để quản lý
+cái việc đặt chỗ học viên này quản lý
+học viên đặt chỗ học viên kết nối học
+viên với thầy giáo và quản lý các cái
+session về lái xe đấy như thế nào một
+cách hiệu quả đấy Đấy
+thì à
+đây thì chúng ta có thể mở cái yêu cầu
+này luôn chúng ta xem đúng không?
+Đấy
+đúng không? Thì đây có thể coi là một
+cái mô hình doanh nghiệp công nghệ đi
+đúng không? về lái xe thì cái nhu cầu về
+lái xe ở Việt Nam rất là cao. À bây giờ
+có rất nhiều những bạn trẻ và những
+người trung niên ở nói chung là ở nhiều
+đội về khác nhau mà càng ngày càng trẻ
+hóa có nhu cầu là học lái xe ô tô đây là
+lái xe ô tô đấy thế thì còn rất nhiều
+trường học lái xe giữa trường
+trung tâm đào tạo cũng như là là th thì
+tuy nhiên có một cái vấn đề của các cái
+trung tâm đấy thầy cũng đã từng đi học
+đúng không thầy biết là à cái việc sắp
+xếp ừ lịch học có rất nhiều người là là
+đi học nhưng mà không thể nào tập trung
+vào một nơi nơi để học được mà chúng ta
+vừa đi làm vừa đi học các em chẳng hạn,
+sinh viên chẳng hạn. Thế cho nên thường
+thường là sẽ phải có một cái hệ thống
+rất là linh hoạt để đặt lịch cho những
+cái học viên đấy. Như thế nào để nó họ
+họ dễ dàng thu xếp được thời gian của
+công việc để đi học. À và thứ hai nữa là
+làm sao để đánh giá được cái việc à học
+từng học viên như thế nào cho nó phù
+hợp. Ví dụ như một cái vấn đề rất là nổi
+cộm đấy là khi đi học đấy chẳng hạn
+không biết các em có gặp không nhưng mà
+đến thầy lái xe hẹn cùng một lúc là bởi
+vì là thầy cũng chỉ có Zalo để add tất
+cả các bạn vào trong Zalo cho nên là
+thầy cứ hẹn là 9:00 ngày thứ ba đến
+chẳng hạn thì mình cứ tưởng là 9:00 là
+mình bắt đầu được lái nhưng mà thực ra
+là đến 9:00 nhưng mà cũng đang có một số
+bạn cũng đang lái rồi và có khi là mình
+phải ngồi chờ đấy cả tiếng đồng hồ không
+làm gì cả chờ tiếng đồng hồ choên lân
+mình hoặc Và ờ tốt lắm thì có thể là có
+thể thầy cho cho ngồi vào trong xe để
+nhìn các bạn ấy lái ờ để biết xong rồi
+chờ mãi có khi mới đến lượt mình đấy. Có
+khi mất cả buổi sáng đúng như là em nói
+thì mới đến lượt mình để lái thì đối với
+những người mà không phải đi làm hoặc là
+không bận gì thì không sao nhưng mà nhìn
+chung chúng ta đặt giả định ở đây là
+những bạn học sinh này sinh viên thậm
+chí những người đên đi làm và như vậy
+thì rất mất thời gian đấy. Thế bây giờ
+làm thế nào để chúng ta bài toán ở đây
+chỉ là đặt lực thông minh thôi đúng
+không? làm sao để đặt lịch một cái thông
+minh. Đấy thì có một cái gọi là smart
+booking và allotment management đây để
+đến làm sao đến có thể chính xác không
+chính xác lắm thì một cái size số nào
+đấy trong khoảng cho phép là đến đấy là
+chỉ chờ một ít thôi tối thức ờ một vài
+phút 5 10 phút gì đấy là cùng là có thể
+được lượt mình để lái xe đúng không? Giờ
+còn một cái nữa đấy là bây giờ ok trong
+cùng một cái session lái xe đấy thì có
+thể có nhiều người ở những trình độ khác
+nhau. Có người thì sắp sắp thi đến nơi
+rồi, có người thì mới học. Làm thế nào
+để chúng ta có thể có những cái cái đánh
+giá phù hợp và đưa ra những cái gợi ý
+cho cho từng cái người đấy để người ta
+cần phải học cái gì, học tiếp cái gì.
+Bây giờ người ta đang đến đâu đấy? Ví dụ
+như là ở trong xa ch xa hình thì đ học
+được có sáu bài thì học bốn bài rồi thì
+bây giờ đến đế bạn này vào một cái là hệ
+thống sẽ báo cho cho giảng viên là ok
+bạn này còn hai bài thì hôm nay tập
+trung vào bài thứ năm hay là một bạn
+khác đến thì bạn này mới bắt đầu cho nên
+là phải tập trung bài thứ nhất hoặc là
+bài thứ hai. Thế thì nó sẽ sẽ cá nhân
+hóa được đúng không? À cho cái việc
+giảng dạy đấy cho từng học viên một cách
+dễ dàng. Đấy thì học viên cũng biết cái
+điều đó.
+À thì đây là hai cái phần gọi là chính
+nhất ở trong cái hệ thống này mà thầy
+thấy rất là nổi cộ ở trong thực tiễn
+đúng không? À thế còn đây là những cái
+bổ sung thêm thôi. Ví dụ như chúng ta sẽ
+có cái ví dụ thầy giáo nhiều không trả
+lời hết học viên cho nên là chúng ta có
+một cái auto chatbot đi đúng không? Để
+có thể giúp trả lời thông minh những cái
+yêu cầu. Hay là chúng ta sẽ có ví dụ như
+có thanh toán online thì có một hệ thống
+nào đấy để chống gọi là gian lận.
+về về có thể chống lận về th về về thi
+về học cũng như là chống ra lận về thanh
+toán đúng không? Đấy. Rồi thanh lệnh
+thanh toán thì có thể cái for này thì có
+thể là là
+các em tùy các em tập trung vào cũng
+không thiết là phải cái này nó tương đối
+rộng thì chúng ta tập trung vào một khí
+cạnh thôi. Ví dụ như là
+gian lận về lái xe đi chẳng hạn hoặc là
+học trong việc học cũng là một cái khá
+là tốt.
+À rồi
+có thể là có một cái cách gọi dynamic
+pricing engine tức là làm thế nào đấy để
+định giá một cái cái session học phù
+hợp. Ví dụ như là với có thể cũng cái
+này cũng có thể mang tính cá nhân hóa.
+Ví dụ như là với học sinh sinh viên thì
+giá như thế nào cho phù hợp? Người đi
+làm giá như nào phù hợp người học ít
+người học nhiều đúng không? Có những
+người có thi chỉ gặp thầy giáo bảo là em
+chỉ cần muốn là ỉ cần em có kinh nghiệm
+rồi chỉ cần có nhu cầu ôn hai tuần hay
+ba tuần để đi thi thôi chẳng hạn đúng
+không? Thế thì chúng ta tính giá ra làm
+sao? Rồi có người thì phải học 6 tháng
+thì tính giá ra nào. Đấy. Thế thì vân
+vân thì như vậy là cũng có rất nhiều
+những cái thú vị chúng ta có thể đưa vào
+đây để chúng ta suy ngẫm đúng không? Và
+và làm đấy. Thì à đây mô tả như vậy để
+thấy là cái mục tiêu là chúng ta phải
+đưa những cái cái xử lý thông minh này
+vào trong hệ thống đúng không? Và chắc
+chắn rồi là cái đấy là cũng sẽ có những
+cái phần AI ở đây các em đưa vào đúng
+không
+nhá. Thế thì ở đây thầy không đặt vấn đề
+là à là gì? Tức là các em phải làm hết
+đúng không? Nhưng mà cố gắng làm hai đến
+ba cái ít nhất hai đến ba cái gì đó để
+cho nó có ý nghĩa có tính thực tiễn là
+một. À thứ hai nữa là thầy không yêu cầu
+là các em phải viết code cho cái đấy.
+Thì chúng ta mục đích của chúng ta ở đây
+không phải là phát triển một cái sự phần
+mềm đấy mà chúng ta ứng dụng à phương
+pháp quản lý phần mềm. Đấy nhưng mà tất
+nhiên chúng ta dùng cái software có thật
+gọi là tương đối có thật như thế này để
+chúng ta làm. Và và
+như vậy thì không nhất thiết là phải
+code. Tuy nhiên là chút nữa thầy sẽ cho
+xem cái phần Rubik thì sẽ có một điểm
+điểm thưởng của bonus mark là cho cái
+phần code đấy. À nhưng mà phần chính là
+các em chỉ là design thôi. Các em chỉ
+dần đến design và có cả cái phần phần
+design cả test case nữa là được nhá.
+không cần phải code
+đây. À phần rubic sẽ nói cụ thể hơn là
+các em phải làm những cái phần nào ở
+trong này. Cái này thì thầy chỉ lưu ý
+một số các điểm chung như vậy thôi. À
+phần design thì các em sẽ phải đưa cái
+đặc tả thiết kế thì chút nữa thầy cũng
+sẽ nói đây cái đả thiết kế đấy nó có
+những cái gì và làm như thế nào. Design
+test case đúng không? Và các em phải có
+phải nói ch đọc thêm cái rubric để biết
+xem là thể sẽ là cái gì.
+Đó thì đây là cái case study này. Ok.
+Thế bây giờ à chúng ta để nộp bài đúng
+không? Thì ờ đến đây là phần mô tả thì
+cái project đấy là nó sẽ là ở trong cái
+group project này. Các em đột bài thông
+qua cái box group project này nhá.
+Thì bấm vào đây thì các em sẽ thấy cái
+chi tiết của nó. Đấy thì
+cái project này thì
+ý tưởng là được thiết kế để các em làm
+toàn bộ trong cả học kỳ các em học cái
+cái môn học này. Và như vậy các em nên
+coi nó như là một cái a project và chúng
+ta làm sao để chúng ta thực hiện được
+project này à càng sớm càng tốt đúng
+không? Để mục tiêu là đến cái hôm cuối
+cùng là chúng ta hoàn thiện được và
+chúng ta nộp.
+Và đây cũng sẽ là một cái tiêu chí để
+chấm điểm bởi vì là ờ project management
+mà thì không các em đừng các em mà đợi
+đến hai tuần cuối mà vội vàng làm thì
+chút nữa thầy cũng sẽ nói là các em phải
+làm thêm một cái tool quản lý dự án gọi
+là Zira và Confluence thì đấy nó sẽ lóc
+tất cả cái cái các cái khoảng thời gian
+các em làm đ làm lại và thầy sẽ vào đấy
+thầy xem đúng không? Thì những bạn nào
+mà chỉ hai tuần tuổi vội vàng làm thì sẽ
+không không được đánh giá cao à bằng
+những cái nhóm mà thực sự là coi đầy một
+dự án và chia nhỏ thời gian ra làm. Đấy.
+Thầy muốn các em thực hiện cái việc đó,
+áp dụng những cái các em học cộng thêm
+với một số những cái kỹ thuật
+mà các em đã học trước đây. Thầy tin là
+trước kia các em học phần mềm vân vân về
+design về test thì các em đã biết cả
+rồi. Nó dụ ở đây. Ngoài ra thì cũng sẽ
+có một thơ những cái cái
+technique tool nữa chút nữa thầy cũng sẽ
+nói để các em ứng dụng vào thì để hoàn
+thành. Đấy. Thế thì à cái nộp của cái
+project này thì là gì? đầu ra thì thầy
+thầy không yêu cầu các em phải làm gì
+các em không các em phải đọc một cái báo
+cáo gì cả các em cứ làm trên gira cái
+project plan của các em và thực hiện
+trên đấy và viết cái tài liệu của
+project trên confluence thế là xong
+confluence là một cái giống như wiki ấy
+trang wiki để để
+tài liệu hóa tất cả những cái gì liên
+quan đến project một đặc điểm là project
+nó link đến nhauấy thì các em phải làm
+sao để hai cái này link được với nhau
+đấy là được và các em chỉ cần nộp Cái
+link này sẽ cái submit của các em là chỉ
+tuần tí khi vào các em submit link của
+đến hai cái phần này và lưu ý và rất là
+quan trọng là các em phải add cái địa
+chỉ email này của thầy vào dưới dạng
+administrator nhá. Cái này phần này chắc
+thầy hay lên
+để các em tại vì một số bạn lại không
+add thầy là admin thì sau thầy vào thầy
+không chấm được thầy không lấy được tất
+cả các thông tin thầy chấm đấy thì các
+em phải add cái này của thầy dạng admin
+member của cả Zira và confluence nhá và
+hai cái này nó phải link với nhau đấy
+thế thôi thì như vậy là các em nột một
+cái sản phẩm thực về làm dự án thì không
+cần và trên đấy là các em phải tổ chức
+nó để tất nhiên là trên confence tổ chức
+nó để nó nó có tính logic, có tính tổ
+chức tốt, dễ đọc, dễ hiểu đúng không?
+Đấy. Ok.
+Thế cụ thể về food project này thì có
+những cái phần gì và phần các cái điểm
+của nó ra làm sao thì nó được mô tả ở
+trong cái rubric này. Các em bấm rubric
+là các em nhìn thấy nhá. Thế thì nó có
+những phần sau đây. Thứ nhất là phần
+project plan thì tổng cả 100 điểm nhá.
+project plan thì cái kế hoạch project
+plan này là các em phải làm trên Zira
+như thầy nói lúc nãy đúng không? Và nó
+nói rõ ở đây này các em phải có cái phần
+là clan là ai này, project statement rồi
+objective này rồi các cái
+chi tiết về project này, cái scope này
+và phải có project plan. Ở đây là dùng
+ag và dùng scrum của ag này. Cách
+milestone quan trọng này nói rõ này. Thứ
+hai nữa là như phần một để là mô tả về
+project đúng không? Nói chung thứ hai là
+các em có một cái ch project plan thật
+đúng không? Và có nhữ nhất là ba screen,
+ba vòng.
+để làm object và các em phải có evidence
+đúng không? Như thầy nói đấy, tức là các
+em phải làm sớm và ờ ví dụ spin các em
+chia ra mỗi spin là 1 tháng đi bởi vì
+các em có thể đi bình thường screen thì
+khoảng hai tuần thôi nhưng mà bởi vì các
+em là part time thì cứ cho là 1 tháng
+đi. Đấy thì nó phải có evidence ở trên
+Zira là cứ hết 1 tháng đúng không?
+làm thực ra là các em không có 3 tháng
+để làm đâu bởi vì là các em sẽ phải có
+học nữa, học cosa nữa nên thầy cứ coi
+như là chắc là ở đâu đó khoảng tầm 2
+tháng thì nó cũng sẽ khá là khớp vào ba
+cái spin của a thông thường đúng không?
+Và quan trọng là các em phải có cái này
+ở trong của mình thì tiêu chí có những
+cái thang chấm điểm như này thấy là rõ
+ràng đây rồi đúng không? 25 20 17 đấy là
+các cái tiêu chí từ giỏi đến cả đến tốt
+đến
+đến past đúng không và đến không không
+đáp ứng là fail đúng không
+th project plan thì làm cho là như vậy
+thế còn phần thứ hai quan trọng nữa mà
+cái này liên quan đến cả cái khóa học
+các em nữa đấy là cái persona
+à th nhân thầy nói luôn là thì thì ở
+trong cái nó không dạy cụ thể cách làm
+za để quản lý dự án thế thì thầy nhân
+đây thầy spit cái screen để thầy cũng
+chắc là nói song song luôn các cái tài
+nguyên nhá con học mà liên quan tới từng
+cái phần này như thế nào cho thầy chú
+thì song song thì các em có thể vào đây
+các em vào cái phần tài nguyên nhé
+Hai phần tài nguyên đây. Ok. Rồi thì ở
+cái phần project plan này nói về Zira
+đúng không? Thì ở đây thầy có đưa link
+của ba cái link về Zira ở đây. Đấy thì
+nó là các cái tutorial về cách dùng như
+thế nào. Đấy và ngoài ra là công cụ
+online rất là phổ biến cho nên là các em
+có thể tìm thấy rất nhiều tài liệu. Có
+thể vào luôn cả cái website cũng được để
+đọc.
+À tí nhiên đây thầy hỏi có bạn nào chưa
+biết Jira là hoặc là chưa dùng bao giờ
+không? Ở đây chắc nhiều bạn đi làm rồi.
+Chắc dùng rồi đấy. Có ai chưa dừng Jira
+không? Thì thì nếu mà chưa dùng Zira thì
+gõ lên thầy xem nào. Ok. Một bạn
+bạn Minh Hoàng.
+Ok bạn Hiếu.
+Ok bạn Khánh
+cứ chủ động không không ngại nhá. Chúng
+ta cứ nói ra để biết.
+À ok
+rồi. Ok.
+Bạn nào được không?
+Cũng khá đúng không?
+Ok.
+Ok.
+Ờ
+ok. Như vậy là có dợ châm tầm tầm đâu đó
+khoảng à gần 10 bạn đúng không? Chưa
+chưa chưa làm. Thế thầy khuyên nhá là
+bởi vì thầy cũng không chúng ta không có
+thời gian để dạy về cái này và thực ra
+đây là các tool thì thầy tin là những
+bạn mà làm về phần mềm ấy hoặc là đã tốt
+nghiệp ở đây là để vào một cái khóa này
+thì các em cũng đâu đó liên quan phần
+mềm rồi. Ấ bạn về với công nghệ thì nhìn
+chung là học các cái tool này nó cũng
+không khó. Thì các em đầu tiên là các em
+đọc cái xem cái chữ tutorial này. Nó
+tutorial này là YouTube cho nên là nó
+cũng rất dễ xem đấy. Nó không phải đọc
+gì cả. Đấy thì các em vào và các em làm
+theo cái tutorial này là hầu như là sẽ
+biết cách làm như nào. Đấy là một.
+Thứ hai nữa là các em thầy khuyên nữa là
+các em nên team up với một thành viên
+nào đấy mà đã có kinh nghiệm về làm đấy
+thì cũng nên các bạn cũng nên chia chia
+nhau ra để team up với nhau để có thể m
+có thể gọi là là thầy cũng không nói là
+mentor nhưng mà có thể là giúp đỡ nhau
+đúng không một chút trong cái việc mà
+set up cái zira project này như thế nào
+tốt.
+À ví dụ trong nhóm được ngồi cầu kinh
+nghiệm JA thì bạn đấy có thể là người
+lead đúng không? Và quản lý cái J này và
+phân chia công việc giúp thực hiện các
+cái thao tác trên JA. Đấy. Còn đương
+nhiên khi cả nhóm sẽ cùng làm
+các cái công việc ở trên đó thì đấy là
+về Zira.
+À về confluence thì nhìn chung là
+confluence thì cũng cũng ở đây thì thầy
+thầy chưa ở đây thì không có cái link cụ
+thể là confluence như thế nào. Jira là
+cái chính. Thế còn trong thì có phần
+link sang confluence thì chúng ta cũng
+rất dễ confluence nó một cái wiki thôi.
+Chút nữa thầy cho các em xem cái ví dụ.
+Đấy thì nó cũng các em quen biết wiki
+trên Wikipedia chẳng hạn đúng không nhìn
+thấy cái giao diện thì cái này nó cũng
+gần như vậy cái trang để chúng ta soạn
+cái chương trình các cái nội dung tài
+liệu ấy thì nhưng mà đâu đó thầy có đưa
+cái phần ở một chỗ nào đấy thầy thầy có
+đưa một cái link về một cái ảnh cách
+confence như thế nào một cái ảnh tóm
+lược một cái flow rất là dễ từ gira link
+sang cái confence đấy cái trang đấy thế
+thôi
+Ok.
+À chúng ta sẽ có điều kiện để nói cụ thể
+hơn về những cái phần này. Thì ở đây
+thầy thầy cứ m sang đã nhá để các em
+được. Phần persona này là phần quan
+trọng nhất là cái chính là xác định về
+người dùng đó. Xác định cái cái mẫu
+người dùng của chúng ta là ai. Chân dung
+đấy đúng không? Chân dung người dùng có
+những cái dường nào? Chân dung là gì?
+Đấy ví dụ như cái project kia thì các em
+có thể hình dung được đâu là những cái
+dung chính đúng không?
+Lúc nãy trong cái mô tả qua thầy vừa mới
+nói thế thì ở đây các em phải cái này
+liên quan đến CA là một này nó nói rất
+là kỹ về Persona rồi cách làm sao để xác
+định Persona rồi yêu cầu từ Persona ra
+yêu cầu như thế nào để các em
+>> học C3 nhá và các em ứng dụng vào đây
+nhá đấy
+à có bạn nào muốn hỏi gì không
+>> lấy có ph nước đúng không
+>> ừ
+>> ờ
+>> em thầy là cái khóa học mình là có ba
+buổi đúng không ạ? Nhưng mà cái bài tập
+lớn cả hoàn thành cả cái khóa học online
+để tổng thời gian là bao lâu đấy?
+>> À cái tổng thời gian các em có cả học kỳ
+mà nhưng mà cái cái thời gian mà chúng
+ta gặp nhau là có ba buổi và mỗi buổi
+hai tiếng. Thì như thầy đã nói là cái
+phần thầy gặp các em đây là mang tính
+gọi là mentor. Các em chủ yếu là học
+trên cosera này là tự học này cộng với
+các em ứng dụng nó vào làm project này.
+>> Đấy và trong những buổi chúng ta gặp
+nhau này chúng ta sẽ tận dụng để nói về
+cái project đấy đúng không? Và kể cả
+những Q&A về Cera nữa. Đấy thì đấy là
+cái thiết kế chung của chương trình của
+nhà trường là vậy.
+>> À dạ vâng ạ. Dạ vâng em.
+>> Dạ vâng.
+>> Thì ừ thì ở đây cũng có một cái khí cạnh
+là các em tự học ờ
+khóa online đúng không? Về sau khi các
+em ra các em bây giờ đang đi làm rồi
+hoặc là những bạn nào sắ bị ra đi làm
+thì cái việc mà học khóa học online đấy
+cũng là một cái kỹ năng tốt thì đấy có
+thể lấy do tại sao nhà trường thiết kế
+là như vậy đúng không?
+>> Vâng.
+>> Ok thì quay lại personal thì các em phải
+ứng dụng vào trong đấy học cái đấy nhá.
+Xác định vào ứng dụng vào đây và cái này
+là 30 điểm đúng không? thì thầy không có
+cái tài nguyên nào liên quan đến đây cả
+bởi vì nó trong cosera rồi thầy chỉ nói
+những cái phần mà nó chưa có trên Cera
+thôi.
+À hai cái phần tiếp theo này ấy th ba
+phần vi này thì thực ra là trong trong
+cái phần design này thì có đâu đó nói ở
+trong P cosera nhưng mà thầy cũng nói
+luôn là trên CRA thì người ta dừng lại ở
+design user interface là chính phototype
+user interface chứ không nói về design
+tổng thể cả phần mềm cả phân cả backend
+nữa thì cái này sẽ các em sẽ vận dụng
+những cái gì mà các em đã biết ở trong
+làm phần mềm trước đến giờ đúng không
+các em dựng vào. Ví dụ thầy cũng chỉ đưa
+những cái rất là thông dụng thôi. các em
+à phải dựng cái mô hình về email lên này
+đúng không? À cái UI design thì như thầy
+đã nói ở trong C người ta nói ờ map làm
+sao đi từ thân dương người dùng sang yêu
+cầu và ra cái design prototype này như
+thế nào con đường như thế nào về trong C
+có nói
+à các em bổ sung thêm cái thiết kế về cơ
+sở dữ liệu đúng không? À và dựa trên cái
+này thì các em cái phần thứ hai là các
+em phải viết được cái đặc tả thiết kế. À
+cái phần này có thể là những bạn nào mà
+mới chỉ lập trình thì có thể chưa quen
+nhưng mà nếu mà các em lập trình dựa
+trên khi mà lập trình các em để ý là là
+ai đấy người ta đã viết một cái đặc tạ
+thiết kế để mình tuân theo đấy mình viết
+ấy mình mình bị code ấy thì đấy chính là
+cái mà em bây giờ phải làm đúng thì cái
+riêng với cái phần này thì nếu bạn nào à
+chưa chưa chưa chưa
+chưa quen thì thầy có một cái quyển sách
+thầy share ở đây đây là cái quyển sách
+này nh quyển này là quyển costbook mà
+thầy viết biết
+dạy sinh viên đây. Quyển này có tiêu đề
+là Object oriented program development
+đúng không? Đấy thì thầy đã check ra ở
+đây cái quyển này thì thầy highlight ở
+hai cái chương mà các em đọc là chương 4
+và chương 6 thì trong này sẽ nói về cái
+cách viết đặc tả thiết kế như thế nào
+đấy cho các hàm cho một lớp đúng không?
+Ở đây thầy dùng cái phương pháp của đối
+tượng tuy nhiên là nó hoàn toàn có thể
+dùng được cho cả những ngôn ngữ mà
+dạng hà đúng không function đấy.
+Programming như là JavaScript, NScript
+vân vân nó đều được cả.
+Thì các em có thể có thời gian hơn thì
+thầy cũng sẽ có thể phần sau đi thầy sẽ
+sẽ đi vào cũng thể nói rõ hơn về từ về
+trong này như thế nào để các em được
+nhá.
+Thì đấy là design và có quyển sách
+handbook này à có quyền sách postbook
+này. Thế thì à một cái phần nữa của
+design nếu mà các em có cái này rồi đúng
+không? Và thực ra là có yêu cầu trên này
+mà các em viết tốt này có phần design
+các mô hình đầu rào đầu ra tốt này thì
+các em biết ngay là các em có thể thiết
+kế được các cái test case đúng không?
+ấy và ở đấy cho nên là thầy yêu cầu là
+các em viết testc dựa trên design spec
+của mình nhá. Đấy. Thế thì cái phần này
+20 10 điểm thì ra 25 điểm đượcấy.
+Thế như vậy là tổng nếu mà em làm tốt ở
+đây được 90 điểm rồi đúng không? Và đâu
+đó có thể
+chưa hoàn hoàn chỉnh lắm thì ít nhất là
+cũng phải 60 70 điểm. Nghĩ là easily
+đúng không? Phải làm được với như các em
+là có.
+Thế còn cuối cùng chốt lại thì có một
+cái điểm bonus cuối cùng là 10%. Đây là
+cái prototype implementation. Cái này
+không phải là cái UIX prototype mà cái
+này là một cái hệ thống prototype các em
+chạy được nhá. Thì cái này cả fun end và
+back end. Đấy thì các em demo được cái
+này. Thì ở đây thầy yêu cầu là các em
+phải có cái source code trên Zapro này
+cũng add cái địa chỉ Gmail của thầy vào
+này. Các em phải nộp cái demo video
+khoảng 3 đến 5 phút này từ cài đặt cho
+đến chạy này. Các em cũng phải và cái
+này đưa lên Google Drive đúng không? và
+share cái link, nộp cái link lên này à
+đưa cái link vào này. Đây cái video phải
+có những cái gì thầy cũng nói rõ ở đây
+các em phải có một cái trang mô tả về
+cái prototype này ở trong confluence của
+mình, trong cái của mình ấy, project
+mình này. Đấy và nói rõ là cái phạm vi
+mà các em
+impement ở trong cái phương t này là gì.
+Ví dụ như em có năm cái feature nhưng
+các em nói là các em chỉ làm hai cái.
+Ok, không cần phải làm hết mà. Đấy. Đấy
+và có cái screenshot ở đây nữa. Đấy. Thế
+thì à thì phần này là như vậy đúng
+không? Phần phần triển khai này thì nếu
+bạn nào mà không không làm được thì cũng
+không sao. Tỉnh cái này thầy muốn à mục
+đích của cái phần này là để các em cũng
+có nhìn được cái sự liên hệ giữa làm
+thiết kế và phần code. Tức là có một cái
+trải nghiệm làm một cái một cái project
+đầy đủ với software tất cả các pha từ
+yêu cầu đến design cho đến test đến code
+đúng không? Đấy à thì nếu bạn nào muốn
+có cái trải nghiệm đầy đủ đấy và làm tốt
+thì sẽ có thêm là cái phần điểm bonus
+này. Thế còn các em chỉ cần làm đến
+design
+cũng ok rồi. Phần test này thêm 20% nữa
+thì là tốt.
+Như vậy là tóm lại là thầy mặc dù là có
+như vậy nhưng mà chúng ta học về
+software, chúng ta là master về software
+cho nên chúng ta phải có những trải
+nghiệm và làm một cái software thật đúng
+không? Và và ứng dụng nó vào một cái
+software project. Thế là tại sao mà thầy
+design cái project này theo các cái pha
+đầy đủ như vậy thì các em ứng dụng nó
+vào đúng không? Để các em làm.
+Thế thì
+như vậy là đấy là cái project này. Đấy
+là những và những cái tài nguyên mà các
+em dùng để các em có thể là tham khảo
+thêm để chúng ta có thể làm được.
+À ok thì trước mắt là
+về những phần thầy vừa mới nói thì lớp
+có câu hỏi gì không?
+Th nói cũng hơi hơi hơi nhiều rồi.
+>> Thầy cho em hỏi một l bao nhiêu thành
+viên? À
+>> à ok nhóm thì sẽ ba đến bốn thành viên
+thôi.
+Ờ ok. Thế chắc là để thay đổi không khí
+một chút thì chúng ta sẽ làm nhóm luôn
+cũng được. Thế thì các em vào trên nhân
+câu hỏi của em nhá. Thì các em vào ở
+trên này có cái phần group formation,
+các em vào trang web của
+khóa này.
+Phần tài liệu hay classwork đây thì các
+em thấy có phần tạo nhóm. Ok.
+Tối đa là bốn bốn học viên đúng không?
+Thì tất nhiên là ba đến bốn học viên ít
+quá thì cũng không nên đúng không? Đấy
+thì các em bấm vào đây thì nó sẽ ra cái
+file
+Google Sheet này. Đấy thì các em a
+bảng tính này thì các bạn vào luôn và
+các bạn hãy tạo nhóm. Thì thầy để các em
+tự tạo nhóm thôi. Chắc biết nhau tạo
+nhóm. Nhưng mà thầy vẫn khuyên là các
+bạn mà chụp kinh nghiệm ấ nên tìm những
+anh chị hoặc những bạn nào đã từng làm
+rồi đúng không? Về Jira hay về
+conference về team để để có thể nhau thể
+kinh nghiệm.
+Thầy ơi trong cái phần em hỏi tiếp đi.
+Ok.
+>> Trong cái phần nhóm này thiếu tên em ạ.
+>> À đây là cái danh sách của lớp mà thầy
+thầy được nhận được từ bên trường đấy.
+Thì em em tên là gì?
+>> Nghĩa Thị Hồng Hạnh ạ.
+>> Em a em cái này thầy cho edit đấy. Edit
+sinh viên edit được đấy. Em em mở cái
+này ra em tự edit vào tên em và em add
+vào dòng dưới đi.
+>> Vâng ạ. Em xin phép thầy trước ạ. Vâng.
+Ờ ừ rồi em add ở dưới này. Add cho thầy
+tên của em vào và em chọn nhóm ở đây.
+Thì ở đây thầy đã chọn ở group này thì
+các em
+8 x 4 là thầy để bốn nhóm thì chắc là
+giờ 32. Giờ chúng ta 35 là 34.
+Ừ thế thì có thể có khả năng là phải
+chín nhóm nhỉ.
+Thầy cứ cho thêm một nhóm nữa nhá.
+59
+l màu gì đây này
+đấy thầy bổ sung nhóm 9 đấy thì chúng ta
+34 đúng không 9 327
+đầu tiên là mỗi nhóm cứ ba bạn trước đã
+đúng không sau đó thì các bạn còn lại
+thì sẽ chia vào các nhóm
+các nhóm còn lại. Những bạn mà chưa có
+nhóm thì sẽ vào rơi vào các nhóm còn lại
+thì sẽ có một số nhóm là bốn người, số
+nhóm là ba người. Chúng ta tránh là nhóm
+này có chỉ có hai nhóm lại có năm thì nó
+hơi lệch nhá.
+Ok. Thì như vậy là các em tranh thủ vào
+chậm nhóm luôn này. À chốt luôn ngày
+buổi hôm nay để để các em về các em có
+thể liên hệ với nhau để để làm nhá.
+Trong lúc tạo nhóm thì bạn nào câu hỏi
+thì cứ hỏi thầy chúng ta sẽ giải đáp
+luôn.
+>> Em thầy có câu hỏi anh.
+>> Ok mời em.
+>> Ờ hạn nộp cuối cùng của cái project là
+bao giờ hả thầy?
+>> Ok hạn nộp đúng không thầy? Để xem thầy
+check nộp thầy đạo này chưa.
+À chưa đúng không? Ok thế bây giờ như
+này. Cái hạn nộp thì thông thường là
+thầy sẽ về thầy sẽ vào đây để tính theo
+cái lịch học của chúng ta nhá. Đây chúng
+ta mở lại học. Như vậy là cứ buổi cuối
+cùng chúng ta sẽ rời vào 22 tháng 04
+đúng không? Thế thì thông thường là một
+tuần sau cái tối đa là một tuần sau cái
+cái
+ngày cuối cùng này là các em phải nổ
+trong cái tuần đấy là phải hoàn thành
+chứ không được vận hơn. Bởi vì là sau
+đấy thầy phải chấm điểm phải trả điểm
+cho nhà trường thì không được nha. Thế
+thì như vậy là chúng ta sẽ để 24 cộng
+với cho là 7 đi. Cái này chắc rơi vào
+thứ cái này thứ tư à cái tuần này 24 này
+chắc chạch
+2 tháng 4 là rơi vào thứ tư đúng rồi như
+tuần đấy là tuần 20 nhá. Như vậy là cuối
+tuần đấy là sẽ rơi vào ngày chủ nhật là
+ngày 25 25 tháng 4. Ok. Rồi thế giờ thầy
+sẽ đặt cái lịch là 25 tháng 4.
+Ok. Thì như vậy là
+như vậy nhá. Thì các em lưu ý đúng cái
+thời hạn này. Ok xong
+đó tư.
+Cái này thì xem.
+Ok.
+Rồi mời. Có bạn nào có hỏi gì nữa không?
+>> Thầy ơi nhòm năm người được không ạ?
+À trước trước mắt thì tạm thời chúng ta
+chưa chưa để nhóm năm người nhá bởi vì
+sợ là sẽ có nếu mà sẽ như vậy nó sẽ hơi
+lệch về các nhóm ấy. Tối đa là bốn thôi
+để xem đã nhá. Thì thì các bạn cứ vào
+nhóm tối đa 4 đã
+sau đó tính ra tính tiếp. Ừ. Ok.
+Em vào đây em gõ luôn được này. Em đã
+vào em tự chọn vào đây được.
+À rồi ok.
+Nhóm năm đây đúng không? Ok. À tức là
+bốn bạn này là vào một nhóm luôn gần
+nhau luôn.
+Ok chúng ta có nhóm 1, nhóm 2 nhóm 11.
+Các bạn này thế nào nhỉ? Các bạn này có
+mặt ở đây không? Chắc là thầy điểm danh
+luôn nhá. Để thời gian nhá.
+Trung Hiếu
+điểm danh nhá.
+Vấn mặc à Minh Hoàng có đúng không?
+Minh Sang
+Hoàng Thái
+>> có ạ.
+>> Đức Mạnh
+>> có
+>> Ngọc Minh
+>> có.
+>> Đức Dương
+>> Đức Dương có ạ.
+Anh Hải
+>> có thầy ạ.
+>> Anh Đức
+Ngô Anh Đức
+Quan Hiệp Ngô Nhức có ạ.
+>> Quan Hiệp
+>> có ạ.
+Có ạ.
+>> Đức Vượng
+>> có em ạ.
+>> Quang Tùng
+có ạ. Có ạ. Anh
+>> có.
+Công Trọng
+>> có ạ.
+>> Văn Vũ
+>> Công Trọng
+>> có
+Hóa Hòa
+>> có
+>> Long Sơn
+>> có
+>> Tròn Sơn Sơn
+>> có
+>> Đình Đình Đán
+>> có
+>> Đức Bình
+>> có ạ.
+Hải Thịnh
+>> có ạ.
+>> Đạp Quân
+>> à có em có em ạ. Có em ạ.
+>> Xuân Xuân Thông
+Xuân Thông không đang thanh
+>> có ạ.
+>> Minh Thắng
+>> có ạ.
+Như Tùng
+>> có ạ.
+>> Tân Long
+>> có ạ. Văn
+>> có em ạ.
+>> Mình trưởng mình trưởng
+>> có
+>> Duy Khánh
+>> có
+>> Quốc Lộc
+>> Đại Thiên
+>> có ạ.
+>> Phúc có thầy ơi.
+>> Dạ vâng ạ. Em cảm ơn.
+>> Không có ạ. Có
+>> thiện
+>> có
+>> thiệt hoa
+>> có ạ.
+>> Ok
+thầy ơi thầy em với em là Nguyễn Trung
+Hiếu ạ.
+Hiếu. Ok.
+>> Ở đầu ạ.
+>> Rồi. Vương Xuân
+Vương Xuân
+>> thân thông à.
+Ok.
+Sang có không? Võ Minh Sang có không?
+Ok nhá.
+Rồi thế nào tình hình group? Thế nào?
+Xong chưa?
+Ch ta 1 2 3 4 5
+6 chúng ta còn một số bạn chưa vào đúng
+không?
+Nhóm nào thiếu thiếu thiếu học viện
+thiếu thiếu bạn không?
+Ờ có cột leader thì các em tích vào luôn
+nhá. Ai là tự l team l cho nhóm bạn nam
+với bạn Trường này chưa vào nhóm này
+Nam với Trường với Thiên là chưa có này
+em nhóm nào cũng được
+>> à thế thì em ok thế là à Thiên em là gì
+đấy bạn vừa nói tên là gì
+Nam à hay là
+>> em Trường ạ
+>> được rồi đấy thì các bạn tiếp tục làm
+nhá. Có cần
+1 2 phút nữa không? Thế chắc 1 2 phút
+cho xong luôn đi nhỉ? Để còn biết không
+về quên.
+Gần xong rồi đấy. Minh với Vượng này.
+Minh Vượng Nam Trường
+với mày mỗi b này vào một nhóm
+thì có 30 35 người thì phải 10 nhóm với
+11 nhóm mới đủ thầy. Đây có chín nhóm
+thì nó sẽ
+>> ờ chín nhưng mà sẽ như vậy là tám bạn
+kia sẽ như vậy là có tám nhóm B đúng
+không?
+8327 đúng rồi. 8 nhóm 4 và còn lại nhóm
+3 đấy.
+Hoặc là hoặc là thích thêm nhóm thì để
+thầy không thích nhóm B thì để thầy à
+thầy tạo thêm cũng được 10 nhóm cũng
+được. 130
+có thích bốn nhóm bốn người không hay là
+thích nhóm ba người? Thầy có nhóm bốn
+người rồi đây này. Một này
+>> nhóm
+>> 5 này.
+>> Ờ đấy thì tốt nhất là vào bốn người được
+thì cũng được.
+>> Vâng. Bốn người thì làm thêm làm thêm
+mỗi người làm một cái AI feature chẳng
+hạn đúng không? Thì làm được nhiều
+feature.
+Đây có năm AI feature đấy.
+Ok thì chắc thì còn 1 2 3 còn ba bạn này
+ba bạn cuối chưa vào này.
+Nam với Trường thì Nam với Trường với
+Vượng là nhóm đi nhá. Ok không?
+>> Ba cũng được.
+>> Vợ em không vấn đề gì em nhóm nào cũng
+được th
+>> Ok. Thế thì chúng ta còn thiếu nhóm gì
+đây?
+gì chưa chọn
+1 2 3
+4 5
+6 7
+à nhóm 8 chưa chọn đúng không? Chọn nhóm
+8 nhá.
+Nhóm 8 chưa có.
+Ok
+rồi. Ok. Như vậy là ba bạn này vào một
+nhóm và các bạn còn lại chắc là bốn rồi
+đấy.
+Các nhóm nhìn lại xem đủ đủ con số chưa
+nhá.
+3 đến 4 3 đến 4 bạn.
+Ok. Thế thì về vậy về nhóm coi như là
+xong nhá. Có câu hỏi gì về nhóm nữa
+không? Có cần điều chỉnh gì hay là như
+nào không thì cho biết nhá. À nhóm 8 bây
+giờ có bốn người à.
+Thế nhóm B đang có hai thành viên thôi
+ạ.
+>> Nhóm ảnh thì nhóm ảnh đang rồi.
+>> Ơ sao lại vừa vừa đổi à? Ô nhóm hai bây
+giờ lại thành mấy rồi đây? 5 à
+hai nhiều thế
+nhóm hai chia thêm đi chia thêm cho các
+nhóm khác đi. Đấy cho thế nên là các em
+mà chọn 5 là sẽ bị lệch đấy. Nhóm 1 cũng
+5 rồi. Đây này. Sao chọn nhanh thế? Lúc
+nãy vừa đang để 4 mà
+nhiều quá.
+Nhóm một và nhóm hai s bớt ra đi.
+Bốn thôi.
+5 năm hơi nhiều
+các em. Đặc biệt là làm online học
+online mà năm người làm thế này sợ phối
+hợp sẽ hơi khó. Đấy 34 thôi.
+>> Thế ơi nhưng mà nhóm năm mà vẫn hoạt
+động hiệu quả thì có được không ạ? Hay
+vẫn phải chia mắc tối đa bốn người thôi?
+Thì tất nhiên là thầy nói như vậy nhưng
+mà ho hiệu hợp quả thì tốt quá nhưng mà
+nếu mà hậu quả rồi thì bớt đi một người
+chắc cũng không sao đúng không? Sà bớt
+san bớt cái người hiệu quả đấy sang cho
+nhóm khác thì nhóm khác cũng được hiệu
+quả lây đúng không nhỉ? Đây.
+Rồi
+bây giờ ok nhóm sáu là nhóm 4 đang thiếu
+này. Cho sang nhóm 4 cho một bạn đi.
+Nhóm một với một sang một bạn. Nhóm 1
+sang nhóm 4 đi.
+Một đang người kìa.
+Nhóm một bạn nhóm 1 sang nhóm 4 nữa là
+đủ đấy. Là được rồi đấy. Ok. Võ Bình
+Sang sang đúng không? Rồi
+chư thầy thử sót thê mà
+1 2 3
+4 có 3 5 có 4 6
+7 8 9 rồi ok
+rồi thầy vừa sót lại cái cột group đấy
+cho nên là các em để ý nhầm
+rồi nhá. Ổn chưa?
+Thầy thấy thầy thấy đủ rồi đấy.
+Ok.
+Sót lại theo cái phần này nhá.
+Hay là thôi để sót như này nhá. Để sót
+theo group này cho nhìn là dễ. Ok xong
+rồi.
+Ok. À còn câu hỏi nào nữa không?
+Mẹ mẹ mẹ mẹ xem là mẹ dùng đấy wifi
+không?
+>> Ờ ờ không không thử xem wifi bây giờ nó
+nó nó được rồi. Thử thử lại xem
+>> đấy bạn thích học há bài này.
+>> Bạn à bạn nào đang bật mic bạn nào bật
+mic thì tắt tạm đấy nhá. Nếu mà chưa nói
+thì tắt tạm.
+Tùng à
+>> Đoàn Như Tùng
+>> đừng mở mic.
+>> Ok
+rồi. Ok. Thế thì đấy là project này,
+tiêu chí này, chạo nhóm. Ok.
+Gì nữa nhỉ? Thế bây giờ thế có mấy cái
+thì chắc là như nà à. Thế thì quay lại
+cái tài nguyên nhá. thì nói thêm về cái
+tài nguyên này
+thì về phần tài nguyên thì ngoài những
+cái mà thầy đã giới thiệu lúc nãy thì
+thầy
+bởi vì là có nói đến email đúng không?
+Đây như là thực ra sách về email rất
+nhiều nhưng mà thầy đưa một cái link ở
+đây rất là dễ để các em à tham khảo
+trong quyển sách của thầy về cosbook này
+cũng có email thầy sẽ mở đây cho các em
+chố nữa thầy qua hai cái chương đó nhưng
+mà cái này là cái trang web mà thầy cũng
+hay dùng ờ rất là là dễ hiểu và trực
+quan đúng không các loại biểu đồ đây ví
+dụ em muốn biểu đồ nào class diagram bấm
+vào đây đúng không
+thì tóm tắt những cái những cái thành
+phần chính của Class diagram có các link
+đây các em vào đọc xem xem tìm hiểu
+thêm. Ngay dưới này người ta có một cái
+ví dụ người ta nhìn một cái rất là trực
+quan để biết được cái biểu diễn class
+diagram như thế nào đúng không? Thì bạn
+nào mà có thể quên hoặc là ờ chưa chưa
+chưa học kỹ đúng không thì vào đây để
+xem nhá. Rất tiện đấy. Rồi đây class
+diagram này. Sequence diagram.
+Đây là
+sequence thì quay về home này. Đấy thì
+xong đây sequence diagram cái này đúng
+không?
+Đấy
+vân vân. Thì đấy là một cái thành viên
+nữa là các em thể xem rất là tiện. À một
+cái nữa
+à
+bạn Mạnh hỏi gì?
+Nếu mà mở mic thì tốt tại vì thầy đang
+nói đây thầy cũng sẽ không nhìn rõ
+demo. Thì có cần demo sản phẩm thật sau
+khi dep không? À ok. Đấy thì như thầy
+nói nhá là demo là demo thật.
+Demo ở đây thì thầy không yêu cầu các em
+phải demo trực tiếp mà các em cái phần
+như thầy trong cái phần rubric nộp ấy
+thầy có nói là gì các em? Ờ thứ nhất là
+trong cái trang conference các em phải
+mô tả lại là có một cái trang ở đấy là
+phần prototype đúng không? và mô tả là
+mình à implement cái gì có cái
+screenshot ở đấy đúng không? Và các em
+đưa thứ nhất là cái tất cả các cái link
+cần thiết gồm Jira này à còn zitub này
+các em phải có một cái video record lại
+từ 3 đến 5 phút này đúng không? cái
+project này nó chạy như thế nào đấy thì
+đọc kỹ cái rubric ấy thầy có nói là phải
+chấm như nào thì là được thì thầy sẽ vào
+thầy xem và thầy thầy bám ra thầy chấm
+thì thầy không không yêu cầu là các em
+phải demo trực tiếp đó
+ok
+rồi thế thì quay lại cái phần này có một
+cái ví dụ nữa ngoài cái này ra thì có
+những cái tài liệu, một số tài liệu nữa.
+Ngoài quyển sách này thì thầy có cái cái
+cái khóa học này. Các em cóera thì các
+em cũng có thể vào đây là một cái link
+về các cái nếu bạn nào muốn tìm hiểu kỹ
+hơn về geni. Ở khóa trước cũng có bạn
+hỏi về cái gen muốn tìm hiểu kỹ sâu về
+geni. Thì thầy có viết một cái file
+Google đọc đây để liệt kê một số các cái
+cái cái
+cách để tìm trên Cera ấy những cái khóa
+học liên quan đến Geni. Thì đây là cái
+search các em có thể đưa cái link search
+này vào trên Cera.
+search luôn nhá. Hoặc hoặc là dưới này
+là một số các kết quả thì đưa ra hai
+khóa về cái này về gen AI thì IBM có một
+cái khóa này khá là hay. A
+vi engineering người ta nói rất sâu về
+cái mô hình ngữ lớn ấy thì những cái
+thành phần của nó bên trong như thế nào
+thì thiết kế một cái mô hình ngôn ngữ
+lớn nó như thế nào những cái công cụ
+những cái tool rồi Python code viết ra
+làm sao để để có thể là thường cái việc
+là train một cái mô hình
+ngôn ngữ lớn như thế nào cho đến cái
+việc là viết một cái ứng dụng mà sử dụng
+cái ng mô mô mô hình ngôn ngữ lớn đấy
+dùng lang trên rồi dùng à các cái thư
+viện khác đúng không? Để để à biết các
+cái app
+làm sao.
+À và một cái khóa nữa là cái gọi là gen
+AI với LN Specialization. Đây thì là hai
+khóa thầy nghĩ là cái khóa IPM này là
+đúng thì dành cho những bạn nào muốn tìm
+hiểu sâu hơn đúng không? hoặc là thậm
+chí là
+viết cái prototype ấy thì à thì cũng có
+thể tham khảo thế này. Ở đây thì thầy
+cũng gậy ý thêm luôn tức là để làm cái
+prototype đấy thì thầy không yêu cầu bởi
+vì nó có AI đúng không? Thì thầy không
+yêu cầu là các em phải phải train. Nếu
+train được thì tốt rồi không nói làm gì
+nhưng mà sợ là không đủ thời gian để
+train. Đấy thì các em có thể dùng bằng
+cách là các em giả lập nó bằng
+elemental.
+hiểu ý đấy tức là ví dụ như là recommend
+cái gì đấy thì các em có thể giả lập nó
+bằng cái là lấy
+cái tất nhiên em sẽ có cái cái cái đặc
+tả thiết kế thì y y như thật nhưng mà
+cái phần triển khai code bên trong ấy
+của cái phot đấy thì các em dùng để các
+em ờ trả lời thì cũng được và chấp nhận
+được nhá thì nó không phải có thể nó
+không chính xác 100% nhưng mà thứ nhất
+là
+thể hiện được là em đã có kết nối sang
+một cái mô hình AI
+đúng không? Và mình dùng nó để cung cấp
+kết quả. Đấy. Thì ờ cái cái cái khóa học
+về LM này, một số khóa học LM này thì
+cái IBM này, cái khóa học IBM này nó ờ
+nó nó các em có thể đọc cái phần cái này
+nó có 15 khóa nó rất là nhiều. 10 đến 15
+chính xác.
+Thì thì không phải đọc hết nhưng mà nếu
+mà các em chỉ quan tâm đến việc là dùng
+Elem như thế nào đúng không? Đấy thì à
+có 16 khóa thì các em chỉ cần học cái
+khóa mà viết lập trình với Laln thôi.
+Lập trình một cái app dùng LM chứ không
+phải train hay là find tool mà cái lm.
+Đấy. Thế còn muốn fine tool với train lm
+thóa khác đúng không? Nhì chúng ta nhặt
+ra ở trong này những cái khóa mà liên
+quan lập trình như thế nào
+đó.
+Đấy thì ví dụ như là nó sẽ liên quan đến
+dùng R với Lin này như thế nào? Đấy.
+Ok. Thì đây là một cái tài liệu nữa đúng
+không? Các em có thể xem.
+À rồi à đây thì liên quan tới một phần
+tiếp theo thầy cũng sẽ muốn demo cho các
+em một số các ví dụ để các em nắm được.
+Thì cái ví dụ một cái ví dụ là cái này
+một cái ví dụ mà thầy đã đã đưa ra trong
+tài liệu đây gọi là một cái ví dụ về AI
+recommendation system trong một cái có
+một e-commerce
+đúng không? Một cái website là
+e-commerce thì cái của chúng ta cũng tạm
+gọi là một cái e-commerce mà nó phải bán
+hàng mà chúng ta bán một cái dịch vụ à
+lái xe. Học lái xe. Đấy. Thế thì chúng
+ta ở trong nếu em để ý cái feature đầu
+tiên của project là recommend đúng
+không? Đấy là chúng ta personaliz sẽ cá
+nhân hóa thì chúng ta phải ứng dụng cái
+đấy.
+Thế thì à
+thì các em có thể vào đọc cái file này
+để các em biết được một cái cái đó như
+thế nào. Thế và ở đây nhá thì thực ra có
+rất nhiều những cái bài báo và tài liệu
+để làm để cung cấp cái thiết kế một cái
+hệ thống recommendation system như thế
+này. Thầy thay vì thầy có thể lấy cái đó
+cái đó nhưng mà thay vì cái đấy thì thầy
+lấy một cái thầy dùng
+thầy thầy thầy train một cái gen AI gọi
+là tạm dùng một cái gen AI đi để và
+qua đó là để à
+để đưa ra một cái hệ thống như thế này.
+Tại sao thầy làm cái này? là bởi vì thầy
+thầy muốn chắc chắn là đâu đó chúng ta
+cũng dùng gen ai rồi thế và trong công
+việc của các em bây giờ là phải dùng
+geni. Cái đấy là đương nhiên. Ờ thì cái
+việc học ở đây chúng ta tất nhiên đi học
+thì nó có một cái khác là chúng ta không
+dùng ai thì nó làm hộ bài của chúng ta.
+Cái đấy là cấm đúng không? Nghiêm cấm.
+Thế tuy nhiên là chúng ta sẽ dùng ai
+giống như một người người bạn đồng hành
+để giúp chúng ta tìm hiểu, nghiên cứu,
+học hỏi. Thì cái đấy thì được nhá. Thì ở
+đây thầy muốn đề dem demonstrate tức là
+muốn demo cái cái ý nghĩa của nó là như
+vậy. Không giả sử như bây giờ các em
+muốn tìm hiểu là ok. Thế thì bây giờ một
+cái hệ thống AI recommendation system
+cho một cái cái website như thế này thì
+làm như nào đúng không? không phải là hệ
+thống của mình. thì mình không hỏi nó
+làm cho mình nhưng mình muốn hỏi một cái
+hệ thống như vậy như thế nào. Giống như
+bây giờ tôi tôi vào thư viện tôi kìm
+quyển sách thì có rất nhiều sách về cái
+đấy thì tôi muốn tìm sách nào tài liệu
+nào nói về cái đấy thì bây giờ cứ giả
+sửen ai là một cái bộ trí tuệ về kho
+tàng kiến thức như vậy thì chúng ta hỏi
+luôn đúng không để chúng ta tìm tìm ra
+cái thông tin chúng ta cần đấy. Thế thì
+chúng ta tất nhiên là để ra được cái này
+thì cũng phải hiểu về cái from và về cái
+cái cái cái nội dung chúng ta cần tìm
+kiếm.
+thì thầy cũng tạm gọi là huấn luyện cho
+n một chút để để có những cái prom để ra
+được cái kết quả này thì thầy cũng có
+một cái discler disclaimer ngay ở đầu
+tức là lưu ý là chúng ta ở đây thầy cũng
+nói luôn là j là gì thứ nhất là thầy
+dùng cái tool chini này. Thứ hai nữa là
+để ra được cái này thì cũng phải còn rất
+nhiều vòng tức là mình tương tác và mình
+bị hiểu thể hiện cái sự hiểu biết của
+mình về cái cái vấn đề đó mà chúng ta
+mong muốn làm gì. Và một cái điều rất
+quan trọng ở đây là gì? Nội dung của Z
+này ai là nó có thể bị sai. Cho nên đây
+chỉ là một cái điểm khởi đầu thôi nào
+đấy để chúng ta có một cái gợi ý, ý
+niệm, cái gợi ý để chúng ta biết. Đấy.
+Và nó có thể có lỗi. B content errors.
+Thế thì chúng ta dùng cái này giống như
+mà cái người nói chuyện với mình giống
+như người nói chuyện hàng ngày ấy. Giả
+sử chúng ta có một cái bạn cùng làm việc
+không nói chuyện. Thì nói chuyện như vậy
+chứ có những cái sai, cái đúng đúng
+không? Nhưng mà qua cái việc là chúng ta
+trao đổi qua lại như vậy ấ thì chúng ta
+sẽ bật ra được những cái ý và ở đây là
+thầy cũng giả định là các em cũng đã có
+kiến thức nhất định về về e-commerce, về
+những hệ thống software. Thế cho nên là
+khi chúng ta nói chuyện thì chúng ta
+cũng biết cách tự đánh giá xem là những
+thông tin chúng ta thông nhận được nó là
+đúng hay sai đúng không? Thì cái này là
+muốn nhấn mạnh cái điều đó. chúng ta trò
+chuyện với ai để chúng ta ờ đào sâu suy
+nghĩ, chúng ta tìm hiểu thông tin, chúng
+ta học hỏi nhưng mà chúng ta cũng có một
+cái tư duy gọi là phê phán, ti gọi là
+phản biện đúng không? Để chúng ta luôn
+luôn là tiếp nhận thông tin một cách có
+chọn lọc nhá. Thì đấy là như vậy. Ý
+nghĩa của cái này thì thầy không thể của
+trí là chúng ta dùng gen ai và thực sự
+là chúng em không được phép dùng geni để
+bài nhá. Thì đấy là cái điều nhiên rồi.
+Ok. Thế thì một cái hệ thống như vậy thì
+đầu tiên là cái việc đầu tiên nó sẽ là ở
+đây thì thầy không đi theo cái format
+của cái project tức là chúng ta sẽ gọp
+Persona rồi vân vân. Cái đó thì thầy sẽ
+demo ở một cái ví dụ khác. Thì ở đây
+thầy muốn tập trung vào một cái hệ thống
+cái cái gọi cái cái kiến trúc kỹ thuật
+của một cái hệ thống đấy như thế nào
+đấy. Bởi vì ở cái phần sau thì nó các em
+sẽ phải xây dựng một cái cái thiết kế
+đúng không? Thế thì có thể một số bạn
+thì chưa làm AI bao giờ chẳng hạn thì có
+thể tự hỏi là thì cái AI khi mà tôi đưa
+MAI vào hệ thống như vậy á thì nó sẽ cái
+hệ thống nó sẽ trông như thế nào? Thì
+cái ý nghĩa của cái này là như vậy.
+Ok. Thế thì ở đây thì các em nhìn thấy
+cái điều gì?
+Thì
+các em có thể thấy là nhìn chung ấy là
+một cái hệ thống như thế này thì về cơ
+bản có thể nhìn thấy một cái tổng thể là
+gì? AI thì về cơ bản AI là một chương
+trình thôi đúng không? Chương trình nó
+chỉ khác chương trình bình thường là nó
+thông minh hơn. Tức là nó có cái khả
+năng là tự học này à và nó có khả năng
+là tăng cái qua cái tự học đấy thì cái
+chất lượng về xử lý thông tin của nó tốt
+hơn theo thời gian. Đấy những thông bình
+thường thì nó gọi là tĩnh. Tức là cái
+code của nó nó chỉ chúng ta viết xong là
+nó cứ thế thôi. Đầu vào đầu ra đồ vào
+đầu ra có nếu không hiểu thì thôi nó trả
+lời nó lỗi. Thế nhưng mà với AI thì có
+một đặc điểm là có những cái nó không
+hiểu thì có thể nó vẫn trả lời ra được
+một cái kết quả nhất định nào đấy. Tất
+nhiên là cái độ chính xác của kết quả
+đấy thì nó có thể không được cao. À tuy
+nhiên theo thời gian nó có thể học và nó
+có thể là là nâng cao được cái chất
+lượng trả lời này nữa.
+Thì cái thật toán của cái chương trình
+đấy nó có một tính chất như vậy.
+Ok. Thế thì nếu mà nó như thế thì thực
+ra một cái AI model hay là một cái AI
+program đấy nó là nằm là một thành phần
+của một hệ thống lớn đúng không? Nếu
+chúng ta nói một cái hệ thống hay dùng
+thực tiễn bây giờ là full stack đi đúng
+không? Thế thì chúng ta cũng có client
+và server thôi. Fend là cái phần client
+layer này đúng không? Tạm gọi là sẽ đại
+diện cho phần Fend thì chúng ta sẽ có
+cái web thứ tự nhất là web ở đây đúng
+không? hoặc là cũng có thể là một cái
+mobile app dùng các hệ điều hành như là
+iOS là Android, mobile và là web. Thế
+thì từ các cái client này thì chúng ta
+sẽ kết nối vào ờ vào phần client đây,
+client layer đây hay cũng gọi là phần
+fan đúng không? Thì thầy kết nối vào
+phần backend back chạ một cái máy chủ
+nào đấy thì thông thường nó sẽ thông qua
+một cái gateway đúng không? Đấy thì bạn
+nào học về kiến trúc thì biết là qua
+gateway để mà chúng ta giảm cái sự phụ
+thuộc giữa giữa phần phần backend. G này
+sẽ có mang có nhiều tác dụng chúng nó sẽ
+tức là sẽ thch có thể brow chúng ta có
+writing tới tới các cái dịch vụ chuyển
+tiếp đúng không? Để tìm các dịch vụ ờ
+phù hợp với cái request của chúng ta mà
+chúng ta không phải cần phải biết là cái
+dịch vụ đấy nằm cụ thể ở đâu. Đấy là
+một. Thứ hai nữa là còn nhiều cái tính
+năng khác ví dụ có thể là thực hiện một
+số các cái tác vụ chung ví dụ như
+authentication này rồi login này hay là
+thực hiện một cái chế sá tác ban đầu
+chung tổng thể với tất cả các request
+đấy thì sẽ giảm cái tải cũng giảm cái
+cái workload cho những cái dư dư phía
+sau.
+Ok. Thế thì sau cứ thì đây thầy có thêm
+cái cái getway này thôi nhưng mà các em
+có thể hình dung conceptually là nó sẽ
+đi từ xong backend đúng không? Giờ
+backend thì sẽ có những phân chia ở đây
+thầy dùng các cái dạng gọi service
+architecture đ các em hiểu nô na nó sẽ
+là những cái thành phần để thực hiện
+những cái chức chức năng của dịch vụ. Ví
+dụ chúng ta sẽ có cái phần này là thực
+hiện các cái phần quản lý user này. Phần
+này là e-commerce quản lý sản phẩm này.
+Phần này là order. Đây là quản lý về về
+quản lý về đặt hàng này. Đơn đặt hàng
+cho các sản phẩm này. Sau khi đặt hàng
+xong thì payment là trả phí này đúng
+không? Thanh toán này. Phần này thì sẽ
+là đến thông báo đúng không? Payment
+xong thì sẽ gửi email hoặc là gửi
+message đến thành công hay không thành
+công. Đó thì đây là bốn cái cái hộp này
+là một cái hệ thống e-commerce có thể
+dòng gọi là truyền thống và là cái flow
+của nó sẽ diễn ra như vậy. Thì mỗi một
+cái này về cơ bản bởi vì service cho nên
+mỗi service sẽ có một cái cơ sở dữ liệu
+riêng để đên trị dữ liệu cho nó. Vâng.
+Thế còn nếu mà các em dùng không dùng
+service và dùng một hệ thống mon
+monoloit ấy ờ về về cổ đẻ thì nó sẽ là
+một cơ sở dữ liệu chung và tất cả những
+cái cái
+thành phần mềm này đây là các component
+đúng không sẽ kết nối với dữ liệu đấy để
+query rồi vân vật tại nó chỉ khác thế
+thôi. Ok. Thế thì nếu chúng ta đưa AI
+vào thì nó sẽ như thế nào? Thì các em có
+thể để ý ở đây cái hộp thứ cuối cùng đây
+là gọi là AI recommendation là cái hộp
+mà cái tính năng để đưa ra
+recommend đúng không? Hay là tiếng Việt
+gọi là gợi ý thì gợi ý cái gì? Thì thực
+ra cái gợi ý trong bán hàng thì bạn nào
+cũng biết rồi. Tức là các em mua sản
+phẩm nó sẽ gợi ý những phẩm tương tự
+đúng không? Mà gần vào những sản phẩm
+đấy. Mục tiêu là để bán được nhiều hàng
+hơn. Đấy. Thế thì thế thì cái hộp
+recommendation tại sao nó lại nằm ở đây?
+Đấy thì nó có ý nghĩa như thế nào? Làm
+sao để nó thực hiện cái đấy như thế nào?
+Thì cái cái cái này về cơ bản khi mà nó
+đã hoàn thành ấy thì nó cũng là một
+chương trình thôi. Nó giống như hộp khác
+tức là gì? Cứ đầu vào đầu ra. Chúng ta
+gửi vào đây một cái thông tin là bây giờ
+hãy cho tôi biết những cái sản phẩm
+tương tự sản phẩm này là gì. Đúng. Tôi
+mua một cái bàn tả trăng thì
+ờ tôi mua lần này tôi mua bàn trả thánh
+răng. Lần sau tôi mua kem đánh răng, lần
+sau nữa tôi mua cái da cạo dâu đúng
+không? Thế thì cái sản phẩm tiếp theo
+nữa và gần với những cái loại sản phẩm
+này là cái gì? Thế thì nhiệm vụ của hệ
+thống sẽ tìm những cái sản phẩm tương tự
+thuộc cái dòng cái sản phẩm đó đúng
+không?
+Để để vệ sinh cá nhân chẳng hạn đúng
+không? Để gợi ý cho khách hàng. Ừ những
+người thường mua cái này thua cái kia.
+Thế thì cũng vào đầu vào và đầu ra như
+thế thôi đúng không? Thế nhưng mà để mà
+đầu để mà ra được cái đ vào đầu ra đấy
+thì cái chương trình AI recommendation
+recommendation này thì nó phải được
+đào tạo và được lập trình và được đào
+tạo trên dữ liệu đúng không? Thế thì tất
+cả những cái hộp phía dưới này, hai cái
+hộp phía dưới này này, hai cái hộp dưới
+của cái system này là cái mô tả cái một
+cái
+quy trình,
+một cái phần gọi là khác của hệ thống
+mà đóng vai trò là đào tạo,
+thiết kế cũng như là đào tạo cũng triển
+khai cái mô hình AI này. Đấy và cái
+manager này của chúng ta. Thì để ra
+chương trình này chúng ta phải phát
+triển nó rồi phải
+phải phải lập trình phải đào tạo nó trên
+rất nhiều dữ liệu. Đấy. Thế thì cái
+recommendation engine này chính là cái
+mà thực hiện tất cả những cái việc đó.
+Thì thầy sẽ không đi chi tiết vào đây.
+Nếu các em nào muốn thì cũng có thể hiểu
+đây có những công nghệ như collaborative
+filtering này hay content model hay gì
+đấy thì đây là những cái phương pháp để
+để
+lập trình lên cái các cái thuật toán để
+lập trình lên cái recommendation này
+thôi. Thì thầy không đi vào chi tiết ở
+đây nhưng về cơ bản là nhiệm vụ của nó
+là như thế đúng không? Và các em thấy có
+một cái hộp ở dưới này gọi là model
+training. Tức là dùng cái thực toán này
+để chạy trên các dữ liệu đúng không? và
+làm sao đấy cái vòng lại nó sẽ là cái
+vòng lọc ở chỗ này để làm sao mà chạy
+lên càng nhiều dữ liệu thì nó càng càng
+càng ra kết quả tốt hơn đúng không và nó
+sẽ mục tiêu ở đây là tối ưu tức là cái
+thất toán đây nó sẽ có một một loạt cái
+tham số và
+chúng ta chạy nhiều dữ liệu thì chúng ta
+sẽ sẽ tối ưu hóa các tham số đấy để làm
+sao tiệm cận đến được một các cái bộ
+tham số mà chúng ta có đi thêm nhiều hơn
+nữa, có luyện nhiều hơn nữa thì các
+thông số đấy nó cũng sẽ không tốt hơn.
+Tức là đến một cái ngưỡng tối đa rồi và
+không tốt hơn được. Thì tôi các tham số
+đấy và nó sẽ dừng lại và ok chúng ta sẽ
+dùng các tham số này để lắp vào cái công
+thức tính toán đúng không cho cái thuật
+toán AI này. Và sau khi được như vậy rồi
+á thì là sẽ triển khai cái này ra đúng
+không? Và và cái triển khai sau khi
+triển khai mô hình AI này ra thì nó sẽ
+à
+nó sẽ nằm ở đây đúng không? Nó sẽ nằm ở
+cái hộp trên này. À đấy. Thế thì như vậy
+cái requình và cái hộp trên này là liên
+quan tới cái việc là đây là sản phẩm sau
+khi đã xong còn đây là cái cái gọi là
+cái cái cái bộ máy để sản xuất đúng
+không? Thì ra có cái cái model đó.
+Thế thì ở dưới này các em nhìn thấy một
+cái hộp nữa gọi là recommendation
+serving API. Thì cái này có thể gọi là
+một cái grapper đ một cái grapper trên
+cái AI này. Thế thì cái này thực ra
+những cái thành phần này nó không gọi
+đến cái model trực tiếp mà nó phải gọi
+qua bởi vì chúng ta nói service mà thì
+nó sẽ đây các cái dưới này là nó sẽ gọi
+thông qua cái restful cái API này. Cái
+Rful API này và cái này nhiệm vụ của cái
+này sẽ làm việc với cái cái AI engine
+này. A cái model này đúng không? Program
+model này để trả lời đó.
+Và đây các em để ý thì nó sẽ thông qua
+cái cơ chế gọi là event driven là hướng
+sự kiện theo theo tức là gì? Nó sẽ không
+những cái thành phần này nó sẽ không
+giao tiếp trực tiếp với nhau mà sẽ thông
+qua một cái cơ chế gọi là thông báo sự
+kiện thì tôi cần cái gì đấy thì tôi
+publish à tôi cần cái đấy tôi sẽ gửi một
+cái request. Còn những ai mà có cái
+thông tin gì những cái thành phần nào có
+thông tin gửi trả lại thì sẽ publish ở
+đây ra đấy với dạng event và những cái
+thành phần mà đang lắng nghe thì sẽ sẽ
+tiếp nhận và xử lý cái thông tin đó lớn
+lên đó nhá.
+Đấy thì thầy dùng cái kiến trúc này để
+mô tả một cái để các em hình dung được
+đúng không? một cái hệ thống bình thường
+kèm theo một cái AI thì nó như thế nào?
+Ở đây thầy thấy recommendation bởi vì nó
+rất là thông rộng và ai cũng có thể hiểu
+được hoạt động về bởi vì các bạn đi mua
+sóng online thì đã biết rồi. Thì cái mô
+hình này sẽ tương tự với tất cả những
+cái mô hình gái khác mà trong project đề
+cập đến nó cũng tương tự thôi. Bây giờ
+các em thêm cái nữa thì các em hình dung
+lại có một cái hộp nữa, một cái engine
+nữa để liện nó rồi lại lại có một cái
+service để seve nó đúng không? Tương tự
+như vậy sẽ có nhiều cái thành phần AI
+nữa vào đây thôi. Và tất nhiên là có khi
+có nhiều AI thì sẽ dẫn đến cái bài toán
+là làm sao để coordinate các cái AI đấy
+như thế nào với nhau thì sẽ có những cái
+cái protocol đúng không? Những cái giao
+thức để để
+chạy những cái mô hình đấy rồi điều phối
+rồi kết hợp AI dầ vân vân thì cái đấy nó
+sẽ nâng cao hơn. Thì ở trong này thì yêu
+cầu các em phải xem lại cái đấy thì à
+các em chỉ cần là có được những cái phần
+AA model đấy và có thể gọi đến nó chạy
+đó thì là ok.
+Thì nó tổng quan về một cái hệ thống mà
+có cả AI ở trong đấy là như vậy. Thì ở
+phần dưới này ấy thì à nó đi chi tiết
+hơn thôi về các cái thành phần bên trong
+đúng không? của cái mô hình trên kia nó
+bổ sung thêm cả cái phần dep offs và và
+giám sát ở đây monitoring là giám sát ở
+đây ccd rồi dùng docker như thế nào giám
+sát triển khai thì bạn nào mà quan tâm
+hơn nữa chắc là cũng không cần phải đọc
+cái này nếu mà trong trường hợp mà các
+em là muốn làm phototype ấy mà muốn
+triển khai nó chẳng hạn thì cũng có thể
+tham khảo nhưng mà thầy cũng không yêu
+cầu là các em phải triển khai phức tạp
+như thế này cũng cần phải docker rồi vân
+vân nhiều như vậy
+à
+tham khảo để theo đụng hệ thống nó như
+thế nào thì cũng ok. Phần giấy này thì
+là mô tả cụ thể hơn về từng từng thành
+phần các layer và các cái công nghệ được
+sử dụng cho các cái thành phần đó. Thầy
+thấy nó cũng khá là sát ví dụ fend thì
+dùng react hay là VGS này. Đấy đây là
+fan này. Backend thì là microservice này
+đúng không? Công nghệ microservice như
+thế nào đó. Rồi đây là cái phần
+recommendation system.
+À phần Python để dùng để train cái
+engine này như thế nào, dùng các cái thư
+viện gì của Python đúng không? Bạn nào
+làm về Python và AI thì sẽ rất là quen
+thuộc với những cái thư viện này.
+Ok. Thế đây là phần có một cái flow
+riêng về deployment phần de off để nói
+là cái câu chuyện là các cái thành phần
+kia nó nó được đưa vào các cái container
+như thế nào được chứa trong các
+container như thế nào đấy và cái phần
+deploy của nó đúng không làm sao
+ok nói về các note container
+tương tác giữa cặp container ok đấy thì
+đọc kỹ hơn ở dưới này để hiểu về mặt kỹ
+thuật đúng không về cái kiến trúc kỹ
+thuật
+kiến thức triển khai. Dưới này là phần
+deployment architecture, phần trên kia
+là phần design architecture. Đấy,
+từ hai từ cấp bậc cao cho đến bậc chi
+tiết hơn ở dưới này đó
+nhá. Thì
+thì các em có thể đọc cái này thì tham
+khảo để biết một cái tấm lực chứng cái
+như thế nào.
+Ok không? Thì về phần này các bạn có câu
+hỏi gì không?
+Ờ
+thấy cái này như nào? Có sát với những
+cái mà các em hiểu trong thực tiễn này.
+Những cái các em làm không? Có gì
+bổ sung thêm hoặc là feedback gì thêm ở
+chỗ này không?
+Project làm bằng monol được. Đấy thì
+thầy không yêu cầu là phải microservice.
+Cái quan trọng là các em thể hiện được
+cái cái quan trọng là component based
+architecture đúng không?
+modular chứ mon monol
+không không được phép là là là
+không moder bởi vì lưu ý là chúng ta có
+phần design ở trên đấy và design là phải
+tốt phải tuân thủ những cái tiêu ch
+design đấy chúng ta lại vẽ là ư class
+diagram đẹp rất đẹp nhưng mà phần triển
+khai chúng ta lại cho hết vào trong một
+file chẳng hạn thì cũng vung là nó lại
+defeit cái cái nó lại không không không
+đáp ứng được cái yêu cầu đúng Không phải
+đó. Ừ. Ok. M. Ok. Đ
+rồi thì đấy là một cái nữa.
+Các em mà có câu hỏi gì thì cứ cứ chủ
+động hỏi nhá. Thì tương đối nhiều thông
+tin cho nên thầy cũng phải
+dành tranh thủ để giới thiệu cho các em
+đúng không? Để cho các em đảm bảo là các
+em có đầy đủ những cái các em cần.
+Kể cả các bạn chưa biết lẫn các bạn biết
+rồi đúng không? Thì cũng sẽ có những cái
+thông tin thông cảm cần thiết thì các em
+là cái này thì lúc nữa thầy nói rồi nhá.
+Đọc trước này trước khi học này.
+À ok. Thế thì đến cái quyển sách này nhá
+thì chúng ta nói về design spec đúng
+không? Có hai chương. Quyển sách này thì
+nó có nhiều chương thì các em không phải
+đọc hết. Em chỉ đọc hai chương liên quan
+thôi. Bây giờ thầy cũng mở quyền sách
+này ra một chút
+thầy giới thiệu các em để các em biết là
+nó về cái gì đúng không? Các em thời
+gian thì các em
+ok chưa thấy m
+ok chúng ta có quyển sách à
+các em có thể quyển sách đấy các em có
+thể mở trên này và download xuống nhá.
+Đây thầy đang tìm sách trên trên máy của
+thầy luôn. Thầy mở luôn thì các em có
+thể đọc online. Như đọc online thì có
+thể là nó sẽ hơi màn hình nó hơi khó
+nhìn. Thì các em có thể vào đây các em
+mở open đ new tab này. Xong các em xuống
+nhá. Đấy download xuống máy mà đọc rất
+là dễ. Thầ tìm cái file lại cái file
+thầy trên máy một chút.
+Ok.
+H
+Quyển sách nó trong này đúng không?
+thì có cái phần content ở bên này
+thì mấy chương đầu là nói về lập trình
+đối tượng rồi một số compiler vân vân
+thì cái này đối với sinh viên các bạn
+thì nó như vậy thì các em không cần quan
+tâm lắm. Thì ở đây à bắt đầu chương 4
+nhá. Thì chương 4 là nói về cái đặc tảo
+thiết kế đúng không?
+Thì cái phần mà thầy tin là các em đã
+nắm được rồi thì các em có thể có kiến
+thức cơ bản rồi thì các em có thể vào
+luôn cái chương cần thiết chương 4.3
+đây.
+B
+trên mấy
+đưa các em là cái bản chương 46 à hay là
+cái bản
+à foundation. Ok.
+Này dễ hơn
+đây. Thì cái này nó có cái outline ở bên
+bên trái chúng ta vào đây. Thì các em
+vào trương 4 này. Bắt đầu các em đọc từ
+4.3 đúng không?
+Thì thầy đưa vào ví dụ luôn. Thì cái này
+ờ thầy viết đả thiết kế này là dựa vào
+ngôn ngữ lấy luôn cái ngôn ngữ Java à
+comment ở đầu ấy để làm cái cái cái
+context để viết đúng không? Thì về cơ
+bản là đây khi design ra thì các em đưa
+được về một hàm nào đấy đúng không? Thì
+cái hàm đấy các em sẽ có đầu vào đúng
+không? Tên đồ vào và ở cái tương nhiên
+là có cả output đầu ra nữa nhưng mà nếu
+mà chỉ được vào đầu ra thì nó chưa đủ.
+Thì cái đặc nhiệm vụ của đạo tả thiết kế
+là nói rõ là cái sự chuyển đổi đúng
+không? Từ đầu dào đầu ra như thế thì cái
+chuyển đổi giữa hai cái mapping ấy giữa
+ánh sạn giữa hai cái đầu đấy, hai cái
+đấy là cái gì. Thế để làm được cái đó
+thì ở trong cái phần đặc tả này nó sẽ có
+mấy phần.
+Thứ nhất là phần này là requires có
+nghĩa là phần điều tiền điều kiện đúng
+không? Tiền điều kiện này mô tả cái điều
+kiện đổ của cái tham số đồ vào cần phải
+có để nó có thể thực hiện nó có thể coi
+là một một đồ vào hợp lệ đối với cái hàm
+này.
+À phần hai phần chính nhá. Thầy nói tập
+trung hai phần chính trước. Phần đầu vào
+là tiền điều kiện là requires hay là cái
+từ khác gọi là precondition đấy nhá.
+điều kiện thì phần effects này là viết
+gọn của cái post condition có nghĩa là
+hậu điều kiện hậu điều kiện là cái điều
+kiện cần phải đúng điều kiện sẽ đạt được
+khi sau khi mà cái hàm này thực thi trên
+cái đồ vào đã cho. Đấy thế thì ở đây là
+cái hàm swap và đồ vào là cái bảng xy.
+Đấy thì mặc dù cái hàm này rất là đơn
+giản nhưng mà nó nó rất hay ở chỗ nó sẽ
+biểu diễn được cả ba tất cả cái cấu trúc
+của một cái giả thiết kế cần thiết một
+hàm.
+Thế thì giả định là như vậy được tiền
+điều kiện là gì? XY là phải được phải
+khác nun này đúng không? Khắc now này.
+Và đây là cái dấu và thôi đúng không?
+Hoặc ở đây là cả hai cái dấu là forward
+slash và back slash. Đây đây là dấu và
+đây n. À tại sao phải có điều kiện xy l
+= 2 là bởi vì ở đây chúng ta gọi là đổi
+đổi hai số cho nhau. Đấy thế nhưng mà
+chúng ta lại dùng một cái mảng chứ không
+phải là cho hai số xy. Tại sao lại không
+cho hai số xy? Bởi vì trong Java thì cái
+truyền xy đấy vào ấy thì là nó truyền by
+value. Thế cho nên dù ở trong cái hàm
+này mà chúng ta có chuyển xy cho nhau
+thì nó không cũng không không cũng không
+không sửa cái giá trị khi đó. Đấy. Thế
+cho nên là chúng ta phải truyền một
+mảng. Với mảng mà nói thì khi chúng ta
+sửa cái nội sửa cái cái cái cái cái
+một cái thành phần ở một vị trí ấy thì
+cái giá trị của nó bị thay đổi. Đấy bởi
+vì mảng về cơ bản nó là object và nó
+chứa cái giá trị ở bên trong object đấy
+giống như là một trường ấy. Chúng ta nôm
+nam một trường thì sửa giá trị của
+trường đấy là nó được nó thay đổi.
+Ok cho chuyển mảng vào thay vì hai biến.
+Thế thì bởi vì hai số cho nên ta phải có
+cái điều kiện là mảng này phải độ dài
+bằng 2 không thể là 1 được không thể là
+mảng rộng đúng không mà không thể là lớn
+hơn lớn hơn 2 đấy thì bắt buộc phải bằng
+2. Thì như vậy chúng ta thấy ý nghĩa của
+từ điều kiện ở đây nếu không có ý điều
+kiện này mà chúng ta thể truyền xy vào
+thì cái người lập trình không có tài nào
+biết được là thế xy là là mảng như thế
+nào. À rất là nhiều các em đọc code. Cái
+này mà không không phải là là hiếm hiếm
+gặp đâu nhá. rất nhiều các đoạn code
+trong thực tiễn chúng ta gặp ấy, đọc
+code ví dụ ở đâu đấy hoặc ai đấy cho
+chúng ta một cái hệ thống chúng ta chỉ
+có mỗi cái này thôi cũng có hoặc là thậm
+chí có khi chỉ cùng lắm là có một cái
+dòng như này là swap to number thế là
+hết một cái mô tả bằng ngôn ngữ tự nhiên
+ban đầu nhưng mà không nói rõ là thế bây
+giờ cái two number đấy ở đâu cái này là
+two number ở chỗ nào đúng không hay là
+như nào ok thì m m mường mường tượng ra
+được là ok chắc cái này là two number
+thôi nhưng mà phải nói rõ ra đúng không
+đấy Thì ý ý cái ý tư tưởng của cái từ
+điều kiện nó nó phải nói rõ được một
+cách chính xác cái điều kiện đầu vào và
+phải là cái gì. Ok. Thế này cái này cũng
+hay là thế điều kiện đồ ra đúng không?
+Thì điều kiện đầ ra thì em có thể biết
+đơn giản đúng không? Tự nhiên là gì? Cái
+điệu cái cái cái mảng xy này nó phải đạt
+được sau khi cái hàm này thực hiện là
+cái gì đúng không? Thì đầu tiên là gì?
+số thứ nhất, giá trị số thứ nhất được
+đổi cho giá trị số thứ hai thì đề ngôn
+ngữ tự nhiên có thể viết thế nhưng mà
+cũng có thể viết một cách chính xác hơn
+là gì? Chúng ta dùng cái một cái công
+thức là gì? Cái dạ xy này thì bằng xy xy
+cạnh giới 0 tức là x cái giá trị của xy
+trước khi mà chúng ta thực thi cái hàm
+này. Vậy là cái hay cần nói khác đi là
+cái giá trị của xy ở cái tiền điều kiện
+nhá. Từ khi đầu vào đấy cái xy này là
+giá trị chi đầu ra này thì bằng giá trị
+ở đầu vào đúng không? Và đổi khoán đổi
+giá trị hai số. Như vậy là cái cái một
+này là của cái đồ vào này. Index 1 này
+cho lên đầu của cái mảng đồ ra. Và ngược
+lại thì cái thành phần đầu tiên của cái
+mảng ban đầu thì cho vào vị trí thứ hai.
+Đấy thì đây là một cái cách viết gọn.
+Nghĩa là đây là viết gọn. Viết càng gọn
+và càng càng càng chính xác là càng tốt.
+Thì thông thường người ta dùng những cái
+cái biểu thức về về logic để viết nhá.
+Thì thì các em hay gặp cái đó. Thế đấy
+tại sao mà trong cái quyển sách này thì
+thầy cũng dùng các biểu thức logic dướ
+dạng text để viết cái đó. Thế nhưng mà
+các em không cũng không nhất thiết phải
+làm như vậy. Các em không c không không
+không đòi hỏi. Các em làm sao làm rõ
+được là các cái thành phần đồ vào đồ ra
+thì điều kiện phải có, hộ điều kiện phải
+có và nói rõ được là cái hộ điều kiện
+đây này giá trị của nó được biểu diễn
+bởi cái giá trị đầu vào này như thế nào
+một cách rõ ràng. Ví dụ ở đây em có thể
+nói là xy đúng không? Bằng đúng không?
+Hoán đổi của hai vị trí bằng mảng tạo
+bởi hai vị trí à mảng được tạo bởi giá
+trị
+1 và 0 theo tướng tự đó của
+của mảng y ban đầu.
+Đấy hiểu bằng ngôn từ có thể viết thế
+cũng được nhưng mà viết làm sao kể vào
+ngôn ngữ tự nhiên cũng phải nói một cách
+ngắn gọn và chính xác đấy chứ không
+không không được nói chung chung đấy thì
+cố gắng chúng ta phải nói nói cụ thể
+chính xác không được nói chung chung thì
+đấy là chị cũng phải có logic ở đấy đúng
+không nhưng mà các em viết bằng ngôn ngữ
+tự nhiên cũng được nhá không cần phải
+viết ngôn ngữ đó hơi co màu một chút như
+thế này thì đây là một cái ví dụ đơn
+giản nhưng mà để thấy là nó rất là rất
+là có tác dụng và có ý nghĩa nhá. Còn
+nhiều ví dụ khác ở trong này nữa các em
+có thể xem đây tìm số max toàn những ví
+dụ đơn giản thôi. Gì khó thì chương 4
+nhá. Chương 4 để diện để để mô tả cái
+ngôn ngữ đặc tả nhá. Thì các em thấy là
+các em có thể dùng cái này cho các hàm
+được đúng không? hàm bất kỳ ngôn ngữ nào
+ví dụ JavaScript viết fun backend dùng
+Python LS cũng thế thì cũng là các hàm
+thôi. Thì các em chỉ khác là các em hãy
+dùng cái format
+block comment format của cái ngôn ngữ
+đấy. Ví dụ như là hình như Python Python
+cũng chấp nhận cái này đây này. À Python
+cũng có block comment như thế này. À xem
+nào. React JS JavaScript. Ờ thầy nhớ là
+hình cũng có đúng không? Còn nếu không
+thì các em dùng cái multiline comment
+cái gì đấy của của nhá. Rồi làm rõ ra là
+cái này thì annotation thôi. Ở trong
+comment thì viết chả có ảnh hưởng gì cả.
+Viết thế này là ok. Thế còn header này
+thì theo cái syntax của cái ngôn ngữ đấy
+là xong.
+Thế còn bạn nào mà dùng ngôn ngữ đối
+tượng thì cũng có thể đọc thêm chương 6.
+chương sáu thì là mở rộng của chương 4
+để nói về là đặc tả thiết kế cho một một
+lớp thì làm như thế nào
+đấy thì đầu tiên là chúng ta sẽ đặc tả
+cho cái lớp đấy đúng không dùng overview
+này sau đó thì đặc tả cho các hàm của
+cái lớp đấy thì đầu tiên bằng
+constructor đặc tả constructor như thế
+nào thì đi nhanh qua các cái phần đấy
+nhá để có thể đọc thêm
+bạn nào bây giờ thì bỏ qua chịu khó nghe
+để thầy Thì
+thầy
+nói cái này cho một số bạn nó chưa rõ
+đúng không? Chưa học
+đây thì constructor thì làm như thế nào?
+Đor của nó là gì? T đây ví dụ đây là
+customer này đúng không? Thì cũng chúng
+ta lại cũng lại dùng effect thôi đúng
+không? Rồi ở đây không có tiền điều kiện
+thì thôi còn nếu không thì có thể
+require từ điều kiện vào
+đấy đúng không?
+Nếu là thì trong trường hợp này thì dùng
+phương ứng tự nhiên nhiều nhưng mà cũng
+dùng những cái cái cái
+symbol đúng không? Đấy, ký hiệu thì
+chúng ta làm gọn lại
+thì thầy lưu ý các em không cần phải
+dùng annotation ở trong này. Các em chỉ
+tập trung vào cái phần viết của header
+này thôi nhá. Còn những cái này nó hơi
+specific cho Java hơn một chút. Đấy, thì
+cái này các em không cần phải làm. Các
+em chỉ cung cấp là thằng slow vào tên
+của nó kiểu nó này và cái effect đúng
+không? Cái require cái effect tương ứng
+thế là được. Thì ở đây lưu ý là với
+hướng đối tượng thì có thêm từ quả tis
+để chúng ta nói về cái cái đối tượng ta
+đang dụng là gì đúng không? Đây hàm set
+như thế nào một loạt các hàm khác dư dư
+đơ giảm phức tạp đúng không? có thêm thì
+với đối tượng thì nó chỉ khác thế thôi.
+Tức là sẽ nằm trên cả một lớp gồm có đặc
+tả cho lớp đấy và tập thương hàng của
+lớp đấy. Và phải nói rõ là các hòng đấy
+nó
+thao tác trên cái trạng thái của đối
+tượng của lớp như thế nào. Đấy ví dụ
+trường hàm set này thì thầy thì update
+cái giá trị của cái thông
+của object hiện tại chứ không phải là nó
+lưu cái name này ở đâu đấy đúng không?
+Ch biến nào vào đúng cái trạng thái
+object thì đấy cái sự khác biệt thôi
+giữa đặc tả cho hàm chung chung đấy của
+một cái lớp nào đấy và đặc tả cho hàm mà
+nằm trong ờ nằm trong hành vi của một
+lớp của các đối tượng lớp đấy đúng không
+nhá. Thì đấy là tư tưởng chính của cái
+này. Đ thì nó chỉ có thế thôi. Bạn nào
+mà lập trình rồi mà chưa làm thế này bao
+giờ thì có thể đọc qua cái là làm luận
+ngay rất dễ. Các bạn nào đã biết rồi thì
+các em cứ ứng dụng vào làm
+theo cái mà các em đã biết cũng được bởi
+vì nhìn chung làm rõ được tìm được kiện
+hợp điều kiện và cái header đã được. Còn
+cái annotation kia các em dùng cái gì
+đấy nó hợp lý là ok thì không bắt buộc
+là các em phải dùng chính xác là phải nó
+phải effect như thế này đúng không?
+Nhưng mà dùng cái nào đấy để nói rõ tiền
+và hầu điều kiện nhá
+để người ta hiểu rõ để chưa rõ.
+Ok.
+Thì đấy là cái phần đặc tả thiết kế nữa
+này đúng không?
+Rồi thì chắc là dừng lại một tí xíu nữa
+nhở. Thầy có câu hỏi gì nữa không? Phần
+này không?
+Lớp có ok không?
+Các bạn có đang theo dõi không?
+có
+tài liệu một lượt thì mới mới có câu hỏi
+được. Chỉ hiểu được cái ý thầy ạ. Những
+cái phần những cái phần như này ấ thì nó
+sẽ upline ở trong cái demo s tức là nó
+phải theo theo cái chuẩn này.
+>> Cái phần nào em? Phần phần đặc tả này á.
+>> Vâng ạ.
+>> Phần design spec này đi. Phần design
+spec này thì không phải demo code đâu
+nhá. Đ em đập cái phần rubric ấy là đây
+là phần một trong những cái phần mà các
+em nếu tất nhiên nếu các em muốn làm
+điểm mà tốt thì các em đây cái phần
+design spec này ứng dụng phần design
+spec này và phần code này là cái phần là
+cái phần viết code là về sau tức là các
+em có design spec này rồi nhá
+>> em hình dung là em có design này thì em
+sẽ đưa cho trong project đấy thì em đưa
+cho bạn lập trình
+>> ok
+>> đấy thì bạn viết code đúng không
+>> ok tức là tức là mình sẽ đóng vai trò
+như kiểu solution artect
+À xong rồi design
+>> rồi một designer. Một designer ừ
+>> ok thì
+>> designer nh
+>> tại vì bình bình thường như là phần mềm
+là là anh em sẽ không có cái kiểu đặc
+giả như vậy để làm
+sẽ làm luôn.
+>> Ok hiểu.
+>> Ồ đúng rồi. Nhưng mà ở đây mình sẽ mình
+sẽ làm một cách chuẩn chỉ đi bởi vì là
+>> Dạ vâng. Dạ vâng.
+>> Đây là những cái mà trong công nghiệp mà
+chuẩn chỉ người ta làm đấy đúng không?
+Ok em hiểu em hiểu
+>> và nó không chỉ có ý nghĩa cho ở cái
+thời điểm đấy mà thực ra ờ thực ra là nó
+có nó vừa đóng vai trò là documentation
+nữa vừa là cho cái người người lập trình
+lúc đó để làm và sau đấy về sau này ai
+đấy đọc lại đoạn code này là người ta
+không cần phải đọc code đọc
+>> ok nó kiểu giống kiểu code rồi ok
+>> cái này nó gọi là design by construction
+tức là ờ hoặc là correct by design tức
+là các em làm đến đâu là đúng đến đấy
+bởi vì là nó sẽ verify được chính xác
+luôn là cái code đấy nó đúng với cái đặc
+tả này đúng không? Thế là thế là thế là
+xong design là code nó được đi với nhau.
+Ok. Thì thầy cũng hiểu trong thực tiễn
+thì cái để mà duy trì cái này th tương
+đối là khó bởi vì nó mất nhiều c nó cũng
+tương đối mất công ở chỗ này đấy. Thì
+thì trong thực tiến nó sẽ có một cái cân
+bằng nhất định. Có lẽ không phải code
+nào người ta cũng làm này được. Thầy
+cũng đã từng viết, thầy đã dành cả vài
+năm thầy viết một cái framework để thầy
+giảng dạy ấy. Thì cái quyển sách này
+cũng là kết quả của viết viết việc
+framework đấy. Và thầy đã thực thi một
+cách gọi là rất là nghiêm chỉnh. Thử
+nghiêm chỉnh xem là cái hàm nào khi làm
+thêm framework đấy. Thầy viết luôn cái
+design này thì thầ đúng là cũng không
+mất công là cũng thực sự là rất là kỳ
+công đấy để mà làm. Ừ
+>> đúng. Nếu nếu mà có cái design này thì
+mấy ông biết cực kỳ nhẹ đầu.
+À đúng rồi. Nhà
+ok
+rồi. Thế thì các em có thể đọc thêm nhá.
+Thì thầy cứ giới thiệu như vậy rồi cứ
+đọc. Thì như vậy là vừa song song học
+sera này. Thầy khuyên là có hai cách để
+làm đúng không? Một là các em dành hết
+thời gian học cosera đi. Học xong một
+cái thì mới bắt tay làm project. Cách
+thứ hai là các em học một ít cosera xong
+các em làm một ít project song song với
+nhau. Thì cái tùy nhá thì nhưng mà nếu
+mà nếu mà có thể học cosa thật nhanh
+trước được sau đó tập trung vào làm
+project đấy thì cũng là cái tốt
+thì
+bởi vì project nó cũng có nhiều thứ
+chúng ta mà quay giữa hai bên thì sợ là
+nó sẽ hơi hơi bị nó tập trung. Ừ
+ok. À thì một cái cuối cùng mà thầy cũng
+sẽ muốn
+show cho các em trong ngày hôm nay để
+các em có cái ví dụ nữa, tức là một cái
+ví dụ cái project đúng không?
+Thì ví dụ đây là một cái project mà thầy
+đang làm.
+một trong những cái project mà thầy đang
+làm thì đây là thầy thầy show để các em
+thấy là và conference như thế nào đúng
+đặc biệt là một số bạn mà chưa chưa biết
+rõ cái này đấy thì sau khi mà các em
+à các em chỉ cần dùng cái bản zam free
+thôi nhá tại vì chúng ta có ít hơn 10
+người cho nên là ít 10 người thì các em
+được free vì thầy cũng đang dùng bản
+free thôi thầy cũng biết là cảm giác
+tương đối phức tạp nhiều nhiều
+công việc ở đây
+Thế thì với sau khi mà các em đăng ký
+Jira ấy thì các em sẽ có một cái cái
+website của cái của mình đúng không? Và
+các em tặng J lên thì cái J của các em
+nó sẽ là nó sẽ phải là cái dạng software
+và dùng team manage đúng không? Nó sẽ có
+một loạt câu hỏi ban đầu thì các em dùng
+cái dạng team manage và scrum nhá. Scam
+là phương pháp để làm
+trong cái tutorial ấy mà thầy đưa cho
+các em nó có những cái bước đấy thì các
+em có thể sẽ qua để để làm sau khi setup
+lên thì nhìn chung là các em sẽ được sẽ
+có cái này cái cái màn hình là cái
+timeline là cái màn hình cổ điển về nó
+giống như là cái gan chat đúng không?
+Và gan chat này diễn đạt là các cái phần
+mình làm là cái gì?
+Đấy
+đúng không?
+Ờ cái này thì à
+thực ra là cái này là bắt đầu từ trước
+đấy nữa thì có một số các cái TAS sẽ bắt
+đầu từ năm 2024 thì nó hiện ra ch
+nó nó chỉ hiện trong vòng từ trong vòng
+1 năm trở lại đây thôi. Thế cho nên là
+nó hơi nó mất một số các cái t phần đầu
+cho nên là cái timeline nó hơi hơi cột
+một tí. Đấy nó có nhiều c một số cái
+screen. Cái screen các em làm thì nó
+hiện raở đây đúng không? Thì đây là các
+cái timeline. Thì ở trong này thì các em
+sẽ tổ chức nó dưới dạng các Epic này.
+Đây là những Epic là những cái gọi là
+feature chính của hệ thống nhá. Trong
+cái ECI này thì các em sẽ làm các user
+story. Và user story thì các em viết nó
+dướ cấu trúc tổng quát như thế này đúng
+không? Dưới dạng ba phần các em đều
+biết. Đấy,
+trong các s có cho các em.
+Và ờ ở đây thì các em sẽ phải à
+vào trong từng cái user story này thì
+thầy cũng nói luôn là các em sẽ phải
+triển khai để các em có các em phải chia
+nhỏ các cái tas này bên trong để các em
+có cái phần à triển khai. Các em coi đây
+là một cái và một phần của một vòng phát
+triển đúng không? thì các em sẽ design
+code test của cái user ở bên trong này
+đúng không? Và thêm nữa là các em sẽ
+phải có những cái kết nối sang cái
+mỗi một cái task này các em sẽ phải kết
+nối sang một cái trang confluence để mô
+tả nó. Hiện tại cái project này thì có
+một số cái chỗ nó không có thì không
+cũng không nên theo cái này bởi vì thầy
+thầy làm ở cái chỗ này nó cũng không có
+một có rất tương đối nhiều các cái công
+việc mà à được lưu ch link vào đây. À
+thế tuy nhiên là với cái project của các
+em ấy là nhiệm vụ là các em phải link
+được cái confluence vào cái cái Jira
+Task hay là story này để mô tả nó. Chúng
+ta sẽ không mặc dù có description đây
+các em có thể mô tả ngắn gọn nhưng mà
+chúng ta sẽ không đưa chi tiết vào đây.
+Cái chi tiết phải được mô tả ở một cái
+trang wiki bên confuence.
+Thế thì à ờ như vậy là trong user story
+có các tas con này đúng không? Ch hôm
+sau thầy sẽ demo cho các em một cái
+project mẫu về cách làm cụ thể. Hôm nay
+thầy mới show một cái có sẵn thôi đúng
+không? về chúng ta có cái mường tượng nó
+như thế nào. Thế thì cái cái conference
+đấy nó sẽ link cho các em ở cái tab
+pages này đúng không? Page này sẽ link
+nó sẽ có cái đường dẫn sẵng conference
+khi các em tạo za các em vào đây và các
+em setup thì setup xong thì nó sẽ link
+cái wiki như thế này em bấm vào thì em
+có thể xem cái nội dung của wiki ngay ở
+đây à hoặc là mở một cái trang riêng tab
+riêng ở đây mở nó ra thì thầy sẽ mở nó
+ra ở một tab riêng để nhìn nó rõ hơn
+đây thì các em thấy là chúng ta sẽ tổ
+chức cái cấu trúc gồm rất nhiều những
+cái cái trang các em xem thư mục này
+trong thư mục thì có rất nhiều những cái
+cái trang để mô tả. Ví dụ đây là về
+requirement gọ những cái gì à rồi
+các cái progress report vân vân. Phần
+dưới này là deploy architecture đúng
+workflow. Thì trong này cái phần
+conference nó người ta thiết kế rất là
+rất là à đầy đủ các cái plugin để các em
+có thể làm rất nhiều thứ.
+Thầy ví dụ như project plan thì các em
+có thể nhúng luôn cái project plan ở bên
+Jira vào đây. Đây là một cái ví dụ cái
+link giữa confence và Jira thì các em
+thấy là trong này các em được luôn cái
+zera plan vào đây luôn như thế này giống
+y như cái chúng ta nhìn thấy cũng vậy
+đúng không? Đấy t
+đó thì đây là đấy thì các em cái project
+của các em phải làm sao để để để thể
+hiện được cái
+cái cái
+conference và cái mối liên hệ cái link
+ra hai bên
+như thế nó phải chi tiết đ ở cái mức hơn
+nữa tức là từng task từng user story
+phải có link sang cái trang bên kia nữa
+thôi thì hôm sau khi thầy demo một cái
+cái ví dụ cụ thể hơn nữa về làm commerce
+thì thầy sẽ nói rõ về đó.
+Ờ chỗ này có back cách lock này đúng
+không? Loog này sẽ có một số sprint ở
+đây đúng không? Đấy sprint này. Một số
+screen này đấy chắ thành các spin đây.
+Spin mỗi spin thì có user story là gắn
+vào đây đúng không? Rồi à vân vân. Đó.
+Thế và các spin thì sẽ đấy thì các em sẽ
+sát và spin ở đây. Và khi các em có user
+story vào screen các em nhặt các các
+user story vào các screen đúng không? Và
+các mẫu screen là một vòng và các em sẽ
+triển khai các cái công việc trên cái
+screen đó.
+Ok. Thì thì đó là ờ
+là cái nhìn chung đúng không? tổng thể
+về Zera và Gatino theo theo project quản
+lý dự án.
+Ok. Thì hôm sau thầy sẽ nói kỹ hơn về à
+về sau khi các em sau buổi hôm nay về
+nhá thì các em hãy học sera đi đúng
+không? bắt tay vào học này cố gắng đến
+buổi sau thì hòm ít nhất là một hai khóa
+nếu nếu không có nói là bạn học nhanh có
+khi học đỡ cả bốn khóa thì tốt đúng
+không? Đấy thì buổi sau chúng ta sẽ bắt
+tay vào làm cái ví dụ về e-commerce
+à demo đi. Demo một cái ví dụ e-commerce
+như là trong cái ví dụ hôm nay thầy đưa
+cho các em ấy. Đấy trong cái ví dụ này
+đấy. Và và từ cái việc xác định Persona
+như thế nào rồi story rồi thầy sẽ demo
+cái việc là làm cái đấy trên Jira và
+Confluence rồi link hai cái nhau như thế
+nào để các em biết được cách làm.
+Đấy. Ok. Hôm nay thầy để các em về các
+em đọc tài liệu đã. Các em nghiền ngẫm
+và các em xem tutorial trước đi
+nhá. Để hôm sau chúng ta gặp nhau chúng
+ta sẽ làm các em thực t thực thực hành
+luôn.
+Em nói thầy.
+>> Ok. Các bạn các em hỏi đi câu hỏi gì
+không?
+Bạn Bình có hỏi gì ạ?
+Thấy bây giờ tức là vẫn bây giờ là về là
+mình sẽ nghiên cứu bên Cera mấy cái liên
+quan đến trước đúng không thầy?
+>> Đúng rồi. Bắt tay vào học Cera đi.
+>> Thế còn không xong thì có thể research
+project cái này team có thể là team đấy
+là teamwork ở đây này các em phải plan
+như nào đấy đúng không? phải tiết kiệm
+thời gian ví dụ như là học xong rồi có
+thể là vừa học vừa phân tích cái bài
+toán à
+>> tìm hiểu
+>> như thế nào đấy
+>> hợp luôn với lại cái material trên
+classroom này đúng không?
+Đúng rồi. Thì trên classroom này là thầy
+cũng đã cố gắng đưa vào tất cả những cái
+gì mà thầy thấy là các em cần thiết đấy.
+>> Vâng, cần thầy
+>> và hôm nay thầy cũng đã giới thiệu cho
+các em hết mọi thứ nữa đấy. Và và cái
+đặc biệt là thầy cũng đã map các cái tài
+liệu đấy sang cái project và các yêu cầu
+project rồi đúng không? để các em hiểu
+được như thế nào.
+À đây cái phần này thầy cũng thực ra là
+thầy cũng không phải là rất là quan
+trọng nhưng mà thôi thầy cũng nói thêm
+là gì. Ngoài cái này ra thì thầy có đưa
+ra một số các cái gọi study activity này
+để các em tự kiểm tra tiến độ của mình
+đúng không? Thứ nhất là cái progress
+check thì đấy thì ba cái section mentor
+section của chúng ta này thì mỗi một cái
+section như vậy thì các em nên chuẩn bị
+trước. Ví dụ như ít nhất là phải có một
+cái học
+có đã đã s study đúng không? Có có rồi
+này thì à
+đã đã làm cái project đấy đúng không? Để
+để có được những cái câu hỏi cần thiết
+để chúng ta hỏi này. Thì mục tiêu đến
+đến lợ đến đến cái session đấy là các em
+sẵn sàng để hỏi cái cần thiết đúng
+không? Thì nó mới hiệu quả đấy chứ không
+chúng ta không làm gì cả. Chúng ta không
+có những cái cái cập nhật mới, chúng ta
+không làm project thì đến cái người ấy
+cho nó phí đi đúng không?
+Tại vì trong quá là cháu trình làm chắc
+chắn nó sẽ nảy sinh những cái cái câu
+hỏi như thế nào thì các em nên hỏi trên
+những cái cụ thể mình đang làm thì nó sẽ
+có giá trị hơn.
+Hai cái study cái study activity những
+cái loạt những cái cái liên quan aj phía
+dưới này là những cái thao tác hướng dẫn
+để các em tuân thủ để set up cái project
+cũng như là thực thi. Thì cái đầu tiên
+này là cái tạo project Zira này. Cái mà
+thầy vừa nói hôm nay các em làm thì các
+em đặt tên như thế nào thầy cũng đã
+hướng dẫn được rõ đây nhá. Các nhóm các
+đấy và nhớ đặt tên như này để thầy biết
+khi các em nộp thầy cần biết là nhóm nào
+dễ nhá. là tên theo lớp rồi theo môn
+theo kỳ vân vân và nhờ add thầy vào là
+administrative member này đúng không?
+Thì các em tuân thủ chỉ dẫn này để các
+em s ra kèm theo cái tutorial mà thầy đã
+nói. Ngoài ra thì về sprint thì như thầy
+nói là ba spin thì nó ở đây đúng không?
+Thì cái spin đầu tiên thì thông thường
+sẽ là cái initiation và planning. Cái mà
+các em đang làm bây giờ đấy. Hôm nay về
+là các em bắt đầu bắt đầu triển khai
+đúng không? khởi động và bắt đầu plan đi
+thật là vừa. Thì đây là một số những cái
+lưu ý để plan đây đúng không? Tìm hiểu
+yêu cầu này đúng không? Xem a phù hợp
+như thế nào này thì xem cosera rồi đọc
+bắt đầu trong cosa trên cái khóa ra cera
+này bắt đầu làm project plan đúng không?
+Đấy và
+team bắt đầu học để làm. À đây thì thầy
+nói là cách dùng confluence gì đây? thì
+có một cái link về confluence đây này
+trong cái file này
+thì cái này nó không có cái image. Đây
+các em nó xuống nhá. Thì nó thực ra là
+nó sẽ nói rộng cái bước
+đây. N map là cái bước khi mà em tạo ja
+ấy thì em link sang conference như thế
+nào? Thì đây là cái bước bước một bước 2
+3 1 bốn bước là xong đúng không? Rất dễ
+dang một cái gì để của các em sang
+conference đấy thì chúng ta sẽ có hết
+như vậy là với spin 0 là set up project
+đúng không vân vân spin 1 thì spin sin 3
+là sẽ chia nhỏ ra thành các cái vòng để
+giải quyết cái bài toán của các em thôi
+thì speed nào cũng thế là đầu tiên là
+các em sẽ làm backlock này xem các cái
+tong bữa cho cho spin 1 này triển khai
+các start đấy này update confluence để
+link các cái tài liệu sang làm đến đâu
+là phải update conference đấy để có tài
+liệu cho nó tương tự lặp lại screen 2
+screen 3 đấy thì đây là các cái
+checkpoint đúng không tạm gọi là
+checkpoint theo các screen để hướng dẫn
+các em thử thi nhắc nhở cũng như là
+hướng dẫn một cái quy trình các em làm
+đó đấy như vậy là là thầy quên thầy nói
+luôn là cái này nữa là đầy đủ tất cả
+những cái gì trên cái classroom nhá
+ok đấy thì các em cứ theo thế mà làm
+thôi.
+Thầy em hỏi bạn.
+>> Ok.
+>> Em thấy cái final project đấy thầy để là
+hạn là đến 25 tháng 4 là mình làm làm
+đến 25 tháng 4 là mình phải nộp đúng
+không thầy?
+>> Đúng rồi. Đấy là hạn deadline cuối cùng
+để để nộp nhá.
+>> Nộp giúp đấy thì cũng được.
+>> Vâng em cảm ơn ạ.
+>> Đây như vậy là chúng ta sẽ có bao nhiêu?
+Tương đối tương đối dài đây đúng không
+các em? Có 4 tháng cơ mà thoải mái gửi
+Tết thoải mái đúng không? Sắp tới a nghỉ
+Tết thì chúng ta chắc là sau Tết Vy sẽ
+cái cái buổi tiếp theo đúng không? Để
+thầy check lại xem buổi tiếp theo chúng
+ta vào mùng B.
+Ừ. Đấy thì à 12 tháng
+ạ.
+Đấy thì các em cố gắng đến 12 tháng 3 là
+các em hòm hòm đúng không?
+Đấy để để
+có bạn nào có một ít project demo xong
+24 254.
+Ok các em còn câu hỏi gì nữa không?
+Ok nhở. Thì à thầy hy vọng là các em sẽ
+sẽ thu hoạch được nhiều những cái bổ ích
+đúng không? Từ từ cái môn học này thì
+như các em thấy trong buổi hôm nay ấy là
+có phần lý thuyết này. Tuy nhiên phần lý
+thuyết thì nó cũng tương đối là rộng và
+nó sẽ tần phần cái phần triển khai của
+nó sẽ ở một cái phang nhất định thôi.
+Phần design về UIX tài chính à không đi
+sâu hơn về cái
+về cái qu trình phát triển phần mềm mà
+chúng ta đại học phần mềm. Cho nên là
+thầy đã bổ sung thêm ở cái project để
+các em có thể là thực hiện nó đầy đủ hơn
+trong một cái phát triển phần mềm ta
+hình dung được nó làm như thế nào và ở
+và tất nhiên là thầy cũng đặt những cái
+hạn chế nhất định để các em không quá
+quá lo lắng về cái việc là phải viết
+code lập trình nhiều thứ đúng không mà ở
+đấy các em chếu vào cái tư tưởng chủ yếu
+cái philosophy chủ yếu là các em à quản
+lý được dự án biết cách tổ chức một cái
+dự án này ờ quản lý dự án theo dõi triển
+khai thực thi điều chỉnh một cái linh
+hoạt cái dự án đấy đúng không và gần
+giống dự án thật và dự án thật ở đây nó
+cũng có cái độ phức tạp cao hơn so với
+những dự án thông thường mà có thể các
+em học ở những học dưới hơn thậm chí là
+có thể ở trong trong môi trường làm việc
+là các em cũng đâu đó cũng chưa chưa
+thực hiện được đầy đủ thì chúng ta cũng
+cố gắng là coi đây là một cái cơ hội để
+các em thực thi một cái dự án như vậy
+thì chúng ta có kinh nghiệm đúng không?
+Bởi vì biết đâu đấy khi trong khi môi
+trường làm việc thì sẽ có lúc xếp hoặc
+là có khách hàng người ta đưa ra để có
+những cái bài toán tương tự thì chúng ta
+coi như là chúng ta có bây giờ phần mềm
+là cần phải có AI hết rồi. Đấy thì chúng
+ta có một cái trải nghiệm đúng không? Để
+chúng ta làm việc đó từ A đến Z. Đấy à
+trong thực tiễn có thể các em chỉ tham
+gia được một pha nào đấy thôi các em
+không được làm hết đúng không? Thì ở đây
+chúng ta đóng vai trò như là cái dự án
+rồi như là người thiết kế tổng thể đúng
+không? vân vân làm rất nhiều thứ chúng
+ta hãy trải nghiệm nó chúng ta có th
+nghiệm thì hi vọng là các em sẽ sẽ bối
+cho các em đúng không chúng ta sẽ cố
+gắng lực để làm nhá và sẽ có cả những
+cái tài nguyên bổ sở thêm đây nữa để các
+em a làm tốt. Đấy. Ok. Ờ thì hôm nay là
+như vậy nhá.
+Thì à chúc các em a sau đây thì chắc là
+nghỉ Tết đúng không? thì làm thêm thời
+gian nữa nghỉ Tết chưa nghỉ Tết nhưng mà
+thì thôi thì hẹn lại cả gặp lại các em
+vào đầu thùng ba
+để chúc các em học tốt và
+đạt kết quả tốt nhá bạn cảm ơn thầy em
+cảm ơn
+Ok.
+>> Ok.
