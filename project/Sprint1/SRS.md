@@ -4,10 +4,9 @@
 
 ## Feature 2: Automated Customer Support (AI Chatbot)
 
-**Version: 1.2** 
-**Status: Finalized**
-**Date: 18/02/2026**
----
+Version: 1.2 
+Status: Finalized
+Date: 18/02/2026
 
 ### 1. Introduction
 
