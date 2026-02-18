@@ -39,3 +39,13 @@ Due to the complexity of these features and the fast-pace operations of the busi
 
 ## Analyze Topic
 
+### Actor
+
+-   Learner Driver (Học viên): Người đặt lịch, theo dõi tiến độ và cần hỗ trợ 24/7.
+
+-   Instructor (Giảng viên): Người dạy, quản lý lịch trình cá nhân và cập nhật trạng thái buổi học.
+
+-   System Admin: Quản lý danh sách giảng viên, xe và xem các báo cáo dự báo từ AI.
+
+-   AI Engine (Back-end Actor): Tự động tính toán dự báo nhu cầu và phân bổ (Allotment) tối ưu.
+
