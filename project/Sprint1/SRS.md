@@ -110,6 +110,83 @@ Bao gồm các module chính:
 
 ---
 
+#### UC-04 – Manage Instructor Availability
+
+| **Field** | **Details** |
+| --- | --- |
+| **UC ID and Name** | UC-04 – Manage Instructor Availability |
+| **Primary Actor** | Instructor |
+| **Secondary Actor** | N/A |
+| **Trigger** | Giảng viên truy cập mục "Lịch làm việc" để cập nhật thời gian rảnh |
+| **Description** | Giảng viên đăng ký các khung giờ có thể giảng dạy để hệ thống mở slot cho học viên đặt |
+| **Preconditions** | Giảng viên đã đăng nhập vào hệ thống |
+| **Postconditions** | Lịch trống của giảng viên được cập nhật vào cơ sở dữ liệu |
+| **Normal Flow** | 1. Giảng viên chọn tuần/tháng muốn cập nhật lịch.<br>2. Hệ thống hiển thị thời gian biểu trống.<br>3. Giảng viên chọn các khung giờ (1 giờ/slot) khả dụng.<br>4. Giảng viên xác nhận lưu lịch làm việc.<br>5. Hệ thống cập nhật trạng thái "Available" cho các slot tương ứng. |
+| **Alternative Flows** | A1: Hủy lịch trống đã đăng ký (chỉ thực hiện được nếu chưa có học viên nào đặt vào slot đó). |
+| **Exceptions** | E1: Trùng lịch – Giảng viên đăng ký vào khung giờ đã có lịch dạy cố định khác. |
+| **Priority** | High |
+| **Business Rules** | BR-03, BR-04 |
+
+---
+
+#### UC-05 – Manage Knowledge Base (RAG)
+
+| **Field** | **Details** |
+| --- | --- |
+| **UC ID and Name** | UC-05 – Manage Knowledge Base |
+| **Primary Actor** | Admin |
+| **Secondary Actor** | AI Engine |
+| **Trigger** | Admin cần cập nhật quy định hoặc thông tin mới cho Chatbot |
+| **Description** | Admin tải lên các tài liệu (PDF, MD) để AI Engine cập nhật vào Vector Database |
+| **Preconditions** | Admin có quyền quản trị nội dung |
+| **Postconditions** | Cơ sở tri thức của Chatbot được cập nhật thông tin mới nhất |
+| **Normal Flow** | 1. Admin truy cập module "Knowledge Management".<br>2. Admin chọn chức năng "Upload Document".<br>3. Admin tải lên tài liệu mới (ví dụ: Biểu phí mới).<br>4. Hệ thống (AI Engine) thực hiện bóc tách dữ liệu và vector hóa.<br>5. Hệ thống thông báo cập nhật thành công. |
+| **Alternative Flows** | A2: Xóa hoặc chỉnh sửa các mẩu tin tri thức cũ đã lỗi thời. |
+| **Exceptions** | E1: Định dạng file không hỗ trợ – Hệ thống báo lỗi và yêu cầu file đúng định dạng. |
+| **Priority** | Medium |
+| **Business Rules** | BR-05, BR-08 |
+
+---
+
+#### UC-06 – Manual Slot Adjustment
+
+| **Field** | **Details** |
+| --- | --- |
+| **UC ID and Name** | UC-06 – Manual Slot Adjustment |
+| **Primary Actor** | Admin |
+| **Secondary Actor** | N/A |
+| **Trigger** | Có sự cố đột xuất (xe hỏng, giảng viên nghỉ phép đột xuất) |
+| **Description** | Admin can thiệp thủ công để hủy, dời lịch hoặc thay đổi giảng viên/xe cho một ca học |
+| **Preconditions** | Admin đã đăng nhập; Session cần điều chỉnh hiện đang tồn tại |
+| **Postconditions** | Lịch học được cập nhật; Thông báo được gửi tới các bên liên quan |
+| **Normal Flow** | 1. Admin tìm kiếm ca học (Session) bị ảnh hưởng.<br>2. Admin chọn chức năng "Adjust Session".<br>3. Admin thay đổi thông tin (Giảng viên dự phòng hoặc hủy ca).<br>4. Hệ thống lưu thay đổi và gửi thông báo cho Học viên và Giảng viên mới. |
+| **Alternative Flows** | A1: Hủy ca học – Hệ thống tự động hoàn trả buổi học (credit) cho học viên. |
+| **Exceptions** | E1: Không có giảng viên thay thế khả dụng – Hệ thống đề xuất hủy ca. |
+| **Priority** | Medium |
+| **Business Rules** | BR-04 |
+
+---
+
+#### UC-07 – Handle Escalated Chat (Human Handoff)
+
+| **Field** | **Details** |
+| --- | --- |
+| **UC ID and Name** | UC-07 – Handle Escalated Chat |
+| **Primary Actor** | Support Staff |
+| **Secondary Actor** | Chatbot System |
+| **Trigger** | AI không thể trả lời hoặc học viên yêu cầu gặp người thật |
+| **Description** | Chuyển quyền điều khiển hội thoại từ Chatbot sang nhân viên hỗ trợ |
+| **Preconditions** | Có nhân viên hỗ trợ đang trực tuyến |
+| **Postconditions** | Nhân viên tiếp nhận và xử lý yêu cầu của học viên |
+| **Normal Flow** | 1. Chatbot nhận diện yêu cầu chuyển tiếp (hoặc sau 2 lần không trả lời được).<br>2. Hệ thống gửi thông báo "New Request" cho nhân viên hỗ trợ.<br>3. Nhân viên chấp nhận yêu cầu và xem lại lịch sử hội thoại trước đó.<br>4. Nhân viên trực tiếp nhắn tin trả lời học viên trong khung chat.<br>5. Nhân viên kết thúc phiên hỗ trợ. |
+| **Alternative Flows** | A1: Không có nhân viên trực – Hệ thống yêu cầu để lại lời nhắn/số điện thoại để liên hệ sau. |
+| **Exceptions** | E1: Lỗi kết nối – Hội thoại bị ngắt quãng giữa chừng. |
+| **Priority** | High |
+| **Business Rules** | BR-07 |
+
+---
+
+
 ### 5. Functional Requirements (FR)
 
 * **FR-01 (Booking):** Hệ thống phải cho phép học viên đặt lịch tối thiểu trước 12 giờ trước khi buổi học bắt đầu.
@@ -123,6 +200,10 @@ Bao gồm các module chính:
 * **FR-09 (API Integration):** Chatbot phải có khả năng gọi API để kiểm tra trạng thái booking và lịch học cá nhân.
 * **FR-10 (Progress Tracking Query)**: Hệ thống phải hỗ trợ Chatbot truy vấn và phản hồi thông tin về tiến độ học tập của học viên từ Database.
 * **FR-11 (Conversation Logging):** Mọi cuộc hội thoại phải được lưu nhật ký để phục vụ kiểm soát chất lượng.
+* **FR-12 (Availability Management):** Hệ thống phải cung cấp giao diện cho Giảng viên quản lý và đăng ký lịch trống cá nhân theo tuần.
+* **FR-13 (Admin Intervention):** Hệ thống phải cho phép Admin ghi đè (Override) các lịch học đã được xác nhận trong trường hợp khẩn cấp.
+* **FR-14 (Knowledge Ingestion):** Hệ thống phải hỗ trợ tải lên và xử lý các định dạng tài liệu PDF, Markdown, Docx để cập nhật cơ sở tri thức cho AI.
+* **FR-15 (Seamless Handoff):** Hệ thống phải duy trì toàn bộ lịch sử hội thoại (Context) khi chuyển từ Chatbot sang nhân viên hỗ trợ.
 
 ---
 
@@ -147,5 +228,7 @@ Bao gồm các module chính:
 * **BR-05 (Official Source Only):** Chatbot chỉ được trả lời dựa trên dữ liệu chính thức, không được tự tạo thông tin không có trong Knowledge Base.
 * **BR-06 (Data Integrity):** Chatbot chỉ có quyền đọc dữ liệu Booking, không được trực tiếp sửa đổi dữ liệu qua hội thoại.
 * **BR-07 (Language):** Ưu tiên xử lý ngôn ngữ Tiếng Việt làm ngôn ngữ mặc định.
+* **BR-08 (Data Freshness):** Cơ sở tri thức sau khi cập nhật (UC-05) phải có hiệu lực ngay lập tức trong các câu trả lời tiếp theo của Chatbot.
+* **BR-09 (Instructor Lock):** Giảng viên không được tự ý xóa lịch trống (UC-04) nếu khung giờ đó đã có ít nhất 1 học viên thực hiện đặt lịch thành công.
 
 ---
