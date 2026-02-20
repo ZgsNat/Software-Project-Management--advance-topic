@@ -49,3 +49,14 @@ Due to the complexity of these features and the fast-pace operations of the busi
 
 -   AI Engine (Back-end Actor): Tự động tính toán dự báo nhu cầu và phân bổ (Allotment) tối ưu.
 
+### Entity
+
+-   Users: Lưu ID, Name, Role (Admin, Learner, Instructor), Level.
+
+-   Sessions: Lưu thời gian, Giảng viên gán cho ca, Xe tập lái.
+
+-   Bookings: Liên kết giữa User (Learner) và Session.
+
+-   KnowledgeBase: Lưu các vector hoặc đoạn văn bản sau khi bóc tách từ PDF/MD.
+
+-   ChatLogs: Lưu lịch sử hội thoại để AI học và Admin kiểm soát

@@ -4,15 +4,45 @@
 
 ## Feature 2: Automated Customer Support (AI Chatbot)
 
-Version: 1.2 
-Status: Finalized
-Date: 18/02/2026
+---
+
+## Document Control
+
+### Document Information
+
+| Field | Value |
+|------|------|
+| Document Title | Software Requirements Specification (SRS) – SDS Project |
+| Current Version | 1.3 |
+| Status | Finalized |
+| Created Date | 14/02/2026 |
+| Last Updated | 20/02/2026 |
+| Author | [Thinh + Hoa / Dev + Ba team] |
+| Reviewer | [DanND / Tech Lead] |
+| Approver | [Nguyen Vu / Product Owner] |
+
+---
+
+### Version History
+
+| Version | Date | Author | Description | Status |
+|--------|------|--------|-------------|--------|
+| 1.0 | 14/02/2026 | SDS Team | Initial draft created | Draft |
+| 1.1 | 14/02/2026 | SDS Team | Added booking feature, UC-03, UC-05, FR-07 → FR-11 | Draft |
+| 1.2 | 16/02/2026 | SDS Team | Added Forecasting, UC-02, FR-05, Business Rules update | Review |
+| 1.3 | 19/02/2026 | SDS Team | Finalized use cases, functional and non-functional requirements | Finalized |
+| 1.4 | 20/02/2026 | SDS Team | Add more use case, functional and non-functional requirements | Draft |
+---
 
 ### 1. Introduction
 
 #### 1.1 Purpose
 
 Đặc tả chi tiết luồng nghiệp vụ và quy tắc hệ thống cho hai tính năng trọng tâm: Đặt lịch học lái xe thông minh (tối ưu hóa phân bổ) và Hệ thống hỗ trợ khách hàng tự động thông qua AI Chatbot.
+
+<p align="center">
+  <img src="drawio/Context%20Diagram.drawio.png" alt="Context Diagram" />
+</p>
 
 #### 1.2 Scope
 
@@ -32,7 +62,7 @@ Bao gồm các module chính:
 | **AI Engine** | Tác nhân hệ thống: Phân tích dữ liệu để dự báo, tối ưu ghép nhóm và xử lý ngôn ngữ. |
 | **Chatbot System** | Tác nhân hệ thống: Tiếp nhận hội thoại, truy xuất Knowledge Base và gọi API. |
 | **Admin** | Người giám sát toàn bộ lịch trình, quản lý Knowledge Base và phê duyệt điều động nhân sự. |
-
+| **Support Staff** | Nhân viên tư vấn hỗ trợ |
 ---
 
 ### 3. User Stories

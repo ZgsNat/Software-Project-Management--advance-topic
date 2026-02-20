@@ -1,0 +1,140 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="lNSe--TD3WjiTELBmDnj">
+    <mxGraphModel dx="1209" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-12" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=none;" target="Vwav1Yf5J76Q0dCq0n1a-2" value="Xác nhận lịch học">
+          <mxGeometry relative="1" x="0.2853" y="12" as="geometry">
+            <mxPoint y="-1" as="offset" />
+            <Array as="points">
+              <mxPoint x="236" y="336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-13" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.076;exitY=0.294;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-2" value="&lt;span&gt;Câu trả lời từ&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span&gt;AI/Nhân viên&lt;br&gt;&lt;/span&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-14" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fillColor=none;" target="Vwav1Yf5J76Q0dCq0n1a-2" value="Thông báo đẩy&amp;nbsp;&lt;div&gt;(Push Notifications)&lt;br&gt;&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.4783" y="2" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="130" y="429" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-17" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="Vwav1Yf5J76Q0dCq0n1a-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-18" connectable="0" parent="Vwav1Yf5J76Q0dCq0n1a-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Danh sách ca dạy&amp;nbsp;&lt;div&gt;(Teaching Schedule)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0538" y="-2" as="geometry">
+            <mxPoint x="8" y="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-19" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.721;exitY=0.933;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-4" value="Thông tin trình độ&amp;nbsp;&lt;div&gt;học viên trong ca&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="514" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-23" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.24;exitY=0.939;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" value="Báo cáo dự báo&amp;nbsp;&lt;div&gt;nhu cầu&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Forecasting Reports)&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.2603" y="-30" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="328" y="676" />
+            </Array>
+            <mxPoint x="391" y="576.325" as="sourcePoint" />
+            <mxPoint x="219" y="721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-24" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.357;exitY=0.992;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-5" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Cảnh báo thiếu hụt&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;nhân sự (Forecasting Alert)&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="356" y="718" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-26" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="Vwav1Yf5J76Q0dCq0n1a-5" value="Lịch sử chat">
+          <mxGeometry relative="1" x="-0.6333" as="geometry">
+            <mxPoint y="-1" as="offset" />
+            <Array as="points">
+              <mxPoint x="444" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Smart Driving School&lt;div&gt;(SDS) System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="175" x="349" y="413" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Learner Driver (Học viên)" vertex="1">
+          <mxGeometry height="60" width="120" x="99" y="213" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-15" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.984;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lịch trống&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(Availability)&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.4338" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="639" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-16" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="Xác nhận&amp;nbsp;&lt;div&gt;tham gia ca dạy&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="681" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Instructor (Giảng viên)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="652" y="692" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-21" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.064;entryY=0.751;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="Lệnh điều động&amp;nbsp;&lt;div&gt;thủ công&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="594" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Admin / Support Staff (Quản trị/Hỗ trợ)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="99" y="692" as="geometry" />
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-6" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="&lt;span&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; background-color: rgb(236, 236, 236);&quot;&gt;Yêu cầu đặt lịch (Booking Request)&lt;/span&gt;&lt;br&gt;&lt;/span&gt;">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="287" />
+            </Array>
+            <mxPoint x="380" y="592" as="sourcePoint" />
+            <mxPoint x="430" y="542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-11" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.387;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Câu hỏi hỗ trợ (Chat Inquiry)&lt;/span&gt;&#xa;&#xa;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="279" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-20" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.023;entryY=0.669;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="Tài liệu&amp;nbsp;&lt;div&gt;Knowledge Base (PDF/MD)&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vwav1Yf5J76Q0dCq0n1a-22" edge="1" parent="1" source="Vwav1Yf5J76Q0dCq0n1a-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.082;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;" target="Vwav1Yf5J76Q0dCq0n1a-1" value="Phản hồi&amp;nbsp;&lt;div&gt;chat trực tiếp&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.6445" y="5" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="274" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
