@@ -1,0 +1,151 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram name="Page-1" id="rix8lbhUfF89DV8JxF8M">
+    <mxGraphModel dx="2620" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pao-rkDRvSuonV71_M_H-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="SDS Smart Management &amp; Support System" vertex="1">
+          <mxGeometry height="1099" width="1041" x="140" y="272" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-2" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Learner Driver" vertex="1">
+          <mxGeometry height="39" width="128" x="616" y="109" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-3" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Instructor" vertex="1">
+          <mxGeometry height="39" width="95" x="632" y="198" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-4" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Admin" vertex="1">
+          <mxGeometry height="39" width="70" x="20" y="975" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-5" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Support Staff" vertex="1">
+          <mxGeometry height="39" width="119" x="213" y="1406" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-6" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="AI Engine" vertex="1">
+          <mxGeometry height="39" width="91" x="634" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-7" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" value="Chatbot System" vertex="1">
+          <mxGeometry height="39" width="137" x="204" y="1495" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-8" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-01 Book Training Session" vertex="1">
+          <mxGeometry height="214" width="214" x="941" y="307" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-9" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-02 Training Demand Forecasting" vertex="1">
+          <mxGeometry height="215" width="215" x="165" y="562" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-10" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-04 Manage Instructor Availability" vertex="1">
+          <mxGeometry height="215" width="215" x="940" y="836" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-11" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-06 Manual Slot Adjustment" vertex="1">
+          <mxGeometry height="215" width="215" x="165" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-12" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-03 Process Customer Inquiry" vertex="1">
+          <mxGeometry height="215" width="215" x="940" y="1101" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-13" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-05 Manage Knowledge Base" vertex="1">
+          <mxGeometry height="215" width="215" x="940" y="571" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-14" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="UC-07 Handle Escalated Chat" vertex="1">
+          <mxGeometry height="215" width="215" x="572" y="1081" as="geometry" />
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-15" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=0.25;entryY=1;rounded=0;" target="Pao-rkDRvSuonV71_M_H-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-16" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=0.28;entryY=0;rounded=0;" target="Pao-rkDRvSuonV71_M_H-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="801" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-17" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.56;exitY=1;entryX=0;entryY=0.45;rounded=0;" target="Pao-rkDRvSuonV71_M_H-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="924" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-18" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.55;exitY=0.01;entryX=0;entryY=0.5;rounded=0;" target="Pao-rkDRvSuonV71_M_H-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="669" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-19" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.21;entryY=1;rounded=0;" target="Pao-rkDRvSuonV71_M_H-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-20" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" target="Pao-rkDRvSuonV71_M_H-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="1157" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-21" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=0;entryX=0;entryY=0.5;rounded=0;" target="Pao-rkDRvSuonV71_M_H-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="1189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-22" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-6" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0;entryY=0.45;rounded=0;" target="Pao-rkDRvSuonV71_M_H-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="394" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-23" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-6" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=1;entryY=0.65;rounded=0;" target="Pao-rkDRvSuonV71_M_H-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-24" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-6" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.57;exitY=1;entryX=0;entryY=0.45;rounded=0;" target="Pao-rkDRvSuonV71_M_H-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="659" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-25" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-7" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.66;exitY=0;entryX=0;entryY=0.83;rounded=0;" target="Pao-rkDRvSuonV71_M_H-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="1331" />
+              <mxPoint x="864" y="1331" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-26" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-7" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.67;exitY=0;entryX=0;entryY=0.9;rounded=0;" target="Pao-rkDRvSuonV71_M_H-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="1351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-27" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-9" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.36;entryX=0.43;entryY=1;rounded=0;" target="Pao-rkDRvSuonV71_M_H-6" value="&amp;lt;&amp;gt; AI Forecast Logic">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="614" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pao-rkDRvSuonV71_M_H-28" edge="1" parent="1" source="Pao-rkDRvSuonV71_M_H-14" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.45;rounded=0;" target="Pao-rkDRvSuonV71_M_H-12" value="&amp;lt;&amp;gt; from UC-03">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="864" y="1189" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

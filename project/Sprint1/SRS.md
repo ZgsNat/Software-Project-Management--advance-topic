@@ -81,7 +81,13 @@ Bao gồm các module chính:
 
 ---
 
-### 4. User Case Description
+### 4. User Case
+
+#### Use Case Diagram
+
+<p align="center">
+  <img src="drawio/Use Case Diagram.drawio.png" alt="Use Case Diagram" />
+</p>
 
 #### UC-01 – Book Training Session
 
